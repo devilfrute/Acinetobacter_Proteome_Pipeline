@@ -44,3 +44,23 @@ Example Usage:
 ```
 ./name_extracter.sh /path/to/input_folder /path/to/output_folder
 ```
+
+### Getting Started
+Prerequisites:
+
+* Install Prokka (follow the installation guide on [Prokka GitHub](https://github.com/tseemann/prokka.git).
+Ensure you have a Linux/MacOS system with bash for running the scripts.
+
+> Running the Workflow:
+* Run Prokka on your input FASTA file to generate the `.faa file`
+* Use the `hypo_seq_remover.sh `script to filter out hypothetical proteins.
+* Use the` name_extracter.sh` script to extract protein names for further analysis.
+
+### Contributing
+
+Feel free to fork this repository, submit issues, and send pull requests. Contributions are welcome!
+
+### License
+
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+
