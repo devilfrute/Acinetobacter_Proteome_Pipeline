@@ -22,3 +22,25 @@ Once the `.faa file ` is obtained from Prokka, hypothetical protein sequences ar
 
 Script: ` hypo_seq_remover.sh `
 This script removes hypothetical protein sequences from the `.faa file`.
+* Input: Multiple .faa files stored in a specified folder.
+* Output: Cleaned functional protein sequences saved in a desired output folder.
+
+Example Usage:
+```
+./hypo_seq_remover.sh /path/to/input_folder /path/to/output_folder
+```
+
+## 3. Extracting Protein Names
+Description:
+
+This step extracts protein names from the `.faa files` for further analysis, ensuring an efficient workflow for downstream applications.
+Script: `name_extracter.sh`
+
+This script extracts protein names from multiple `.faa files`.
+
+* Input: Multiple `.faa files`
+* Output: A list of protein names stored in a specified output folder.
+Example Usage:
+```
+./name_extracter.sh /path/to/input_folder /path/to/output_folder
+```
