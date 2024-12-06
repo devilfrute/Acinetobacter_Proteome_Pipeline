@@ -1,0 +1,1720 @@
+JHJICKNH_00001 Chromosomal replication initiator protein DnaA
+JHJICKNH_00002 Beta sliding clamp
+JHJICKNH_00004 DNA replication and repair protein RecF
+JHJICKNH_00005 DNA gyrase subunit B
+JHJICKNH_00006 DNA gyrase subunit A
+JHJICKNH_00007 ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+JHJICKNH_00008 Histidine ammonia-lyase
+JHJICKNH_00009 Serine--tRNA ligase
+JHJICKNH_00012 Homoserine O-acetyltransferase
+JHJICKNH_00014 Cyclic-di-AMP phosphodiesterase GdpP
+JHJICKNH_00015 50S ribosomal protein L9
+JHJICKNH_00016 Replicative DNA helicase
+JHJICKNH_00017 Adenylosuccinate synthetase
+JHJICKNH_00020 Transcriptional regulatory protein WalR
+JHJICKNH_00021 Sensor protein kinase WalK
+JHJICKNH_00024 Putative metallo-hydrolase YycJ
+JHJICKNH_00026 Ribosomal RNA large subunit methyltransferase H
+JHJICKNH_00028 putative tRNA-dihydrouridine synthase
+JHJICKNH_00031 Thiosulfate sulfurtransferase GlpE
+JHJICKNH_00032 Hydroxyacylglutathione hydrolase
+JHJICKNH_00034 putative tRNA-dihydrouridine synthase
+JHJICKNH_00036 Enterobactin exporter EntS
+JHJICKNH_00037 Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+JHJICKNH_00038 HTH-type transcriptional regulator GltR
+JHJICKNH_00040 HTH-type transcriptional regulator YofA
+JHJICKNH_00044 1-phosphatidylinositol phosphodiesterase
+JHJICKNH_00045 putative lipoprotein
+JHJICKNH_00046 putative lipoprotein
+JHJICKNH_00047 putative lipoprotein
+JHJICKNH_00048 putative lipoprotein
+JHJICKNH_00049 HTH-type transcriptional activator RhaR
+JHJICKNH_00050 N-acetylcysteine deacetylase
+JHJICKNH_00051 Quinolone resistance protein NorB
+JHJICKNH_00053 Oleate hydratase
+JHJICKNH_00055 HTH-type transcriptional regulator NorG
+JHJICKNH_00057 L-lactate permease
+JHJICKNH_00058 Immunoglobulin G-binding protein A
+JHJICKNH_00059 HTH-type transcriptional regulator SarS
+JHJICKNH_00060 putative siderophore transport system permease protein YfhA
+JHJICKNH_00061 putative siderophore transport system permease protein YfiZ
+JHJICKNH_00062 putative siderophore-binding lipoprotein YfiY
+JHJICKNH_00063 N-(2-amino-2-carboxyethyl)-L-glutamate synthase
+JHJICKNH_00064 N-((2S)-2-amino-2-carboxyethyl)-L-glutamate dehydrogenase
+JHJICKNH_00065 Staphyloferrin B synthase
+JHJICKNH_00066 Staphyloferrin B transporter
+JHJICKNH_00067 L-2,3-diaminopropanoate--citrate ligase
+JHJICKNH_00068 2-[(L-alanin-3-ylcarbamoyl)methyl]-3-(2-aminoethylcarbamoyl)-2-hydroxypropanoate synthase
+JHJICKNH_00069 5-keto-4-deoxy-D-glucarate aldolase
+JHJICKNH_00070 2-[(L-alanin-3-ylcarbamoyl)methyl]-2-hydroxybutanedioate decarboxylase
+JHJICKNH_00071 L-serine kinase SbnI
+JHJICKNH_00074 Diacetyl reductase [(S)-acetoin forming]
+JHJICKNH_00075 UDP-N-acetylglucosamine 4-epimerase
+JHJICKNH_00077 O-antigen biosynthesis glycosyltransferase WbnH
+JHJICKNH_00080 Superoxide dismutase [Mn/Fe] 2
+JHJICKNH_00081 putative protein
+JHJICKNH_00083 Purine nucleoside phosphorylase DeoD-type
+JHJICKNH_00084 tetracycline efflux MFS transporter Tet(38)
+JHJICKNH_00085 Deoxyribose-phosphate aldolase 1
+JHJICKNH_00086 Phosphopentomutase
+JHJICKNH_00087 Phosphate-import permease protein PhnE
+JHJICKNH_00088 Phosphate-import permease protein PhnE
+JHJICKNH_00089 Glutamine transport ATP-binding protein GlnQ
+JHJICKNH_00090 putative ABC transporter phosphonate/phosphite binding protein PhnD2
+JHJICKNH_00092 Trifunctional nucleotide phosphoesterase protein YfkN
+JHJICKNH_00094 Replication initiation protein
+JHJICKNH_00095 Replication initiation protein
+JHJICKNH_00096 IS200/IS605 family transposase ISSep3
+JHJICKNH_00097 Aldehyde-alcohol dehydrogenase
+JHJICKNH_00098 Capsular polysaccharide type 8 biosynthesis protein cap8A
+JHJICKNH_00099 Tyrosine-protein kinase YwqD
+JHJICKNH_00100 Tyrosine-protein phosphatase YwqE
+JHJICKNH_00101 UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+JHJICKNH_00102 UDP-glucose 4-epimerase
+JHJICKNH_00103 UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+JHJICKNH_00104 UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+JHJICKNH_00105 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+JHJICKNH_00110 putative sugar transferase EpsL
+JHJICKNH_00111 GDP-L-fucose synthase
+JHJICKNH_00112 UDP-N-acetyl-D-mannosamine dehydrogenase
+JHJICKNH_00113 UDP-N-acetylglucosamine 2-epimerase
+JHJICKNH_00114 Heme oxygenase (staphylobilin-producing) 2
+JHJICKNH_00115 Inner membrane protein YbaN
+JHJICKNH_00116 Putative aldehyde dehydrogenase AldA
+JHJICKNH_00117 Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+JHJICKNH_00120 Nitrate import ATP-binding protein NrtD
+JHJICKNH_00122 Putative aliphatic sulfonates transport permease protein SsuC
+JHJICKNH_00125 Formate dehydrogenase
+JHJICKNH_00126 Na(+), Li(+), K(+)/H(+) antiporter
+JHJICKNH_00127 Gramicidin S synthase 2
+JHJICKNH_00129 Inner membrane protein YagU
+JHJICKNH_00130 Acetylglutamate kinase
+JHJICKNH_00131 Arginine biosynthesis bifunctional protein ArgJ
+JHJICKNH_00132 N-acetyl-gamma-glutamyl-phosphate reductase
+JHJICKNH_00133 Ornithine aminotransferase 2
+JHJICKNH_00134 Branched-chain amino acid transport system 2 carrier protein
+JHJICKNH_00135 Isochorismatase family protein YecD
+JHJICKNH_00136 Indole-3-pyruvate decarboxylase
+JHJICKNH_00137 PTS system glucose-specific EIICBA component
+JHJICKNH_00139 N-acetylmuramic acid 6-phosphate etherase
+JHJICKNH_00140 PTS system EIIBC component
+JHJICKNH_00141 putative HTH-type transcriptional regulator YbbH
+JHJICKNH_00143 Type-1 restriction enzyme R protein
+JHJICKNH_00147 Glutathione import ATP-binding protein GsiA
+JHJICKNH_00151 Glutathione hydrolase proenzyme
+JHJICKNH_00152 putative lipoprotein
+JHJICKNH_00153 FMN-dependent NADH-azoreductase
+JHJICKNH_00155 Oligosaccharides import ATP-binding protein MsmX
+JHJICKNH_00156 Cyclodextrin-binding protein
+JHJICKNH_00158 Maltose/maltodextrin transport system permease protein MalG
+JHJICKNH_00159 Glucose--fructose oxidoreductase
+JHJICKNH_00160 Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+JHJICKNH_00163 Hexose-6-phosphate:phosphate antiporter
+JHJICKNH_00164 putative response regulatory protein
+JHJICKNH_00165 putative sensor-like histidine kinase
+JHJICKNH_00166 putative protein
+JHJICKNH_00167 Formate acetyltransferase
+JHJICKNH_00168 Pyruvate formate-lyase-activating enzyme
+JHJICKNH_00170 Staphylococcal complement inhibitor
+JHJICKNH_00171 Staphylocoagulase
+JHJICKNH_00172 3-ketoacyl-CoA thiolase
+JHJICKNH_00173 putative 3-hydroxyacyl-CoA dehydrogenase
+JHJICKNH_00174 Crotonobetainyl-CoA reductase
+JHJICKNH_00175 Long-chain-fatty-acid--CoA ligase
+JHJICKNH_00176 Caffeate CoA-transferase
+JHJICKNH_00178 Nickel-binding protein NikA
+JHJICKNH_00181 Flavohemoprotein
+JHJICKNH_00182 L-lactate dehydrogenase 1
+JHJICKNH_00183 PTS system glucose-specific EIICBA component
+JHJICKNH_00184 Pyrimidine-specific ribonucleoside hydrolase RihA
+JHJICKNH_00186 PTS system galactitol-specific EIIA component
+JHJICKNH_00187 PTS system galactitol-specific EIIB component
+JHJICKNH_00188 PTS system galactitol-specific EIIC component
+JHJICKNH_00189 D-arabitol-phosphate dehydrogenase
+JHJICKNH_00191 Galactitol 1-phosphate 5-dehydrogenase
+JHJICKNH_00192 Ribitol-5-phosphate cytidylyltransferase 2
+JHJICKNH_00193 Ribulose-5-phosphate reductase 2
+JHJICKNH_00194 Teichoic acid ribitol-phosphate polymerase TarK
+JHJICKNH_00195 Teichoic acid glycerol-phosphate transferase
+JHJICKNH_00196 Ribitol-5-phosphate cytidylyltransferase 1
+JHJICKNH_00197 Ribulose-5-phosphate reductase 1
+JHJICKNH_00198 Teichoic acid ribitol-phosphate polymerase TarL
+JHJICKNH_00199 Poly(ribitol-phosphate) beta-N-acetylglucosaminyltransferase TarS
+JHJICKNH_00200 Iron-sulfur cluster repair protein ScdA
+JHJICKNH_00201 Sensor histidine kinase YpdA
+JHJICKNH_00202 Sensory transduction protein LytR
+JHJICKNH_00203 Antiholin-like protein LrgA
+JHJICKNH_00204 Antiholin-like protein LrgB
+JHJICKNH_00205 putative HTH-type transcriptional regulator YydK
+JHJICKNH_00206 PTS system glucose-specific EIICBA component
+JHJICKNH_00207 Aryl-phospho-beta-D-glucosidase BglA
+JHJICKNH_00208 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+JHJICKNH_00209 Ribokinase
+JHJICKNH_00210 D-ribose pyranase
+JHJICKNH_00211 putative glucose uptake protein GlcU
+JHJICKNH_00212 HTH-type transcriptional regulator DegA
+JHJICKNH_00215 Quinolone resistance protein NorB
+JHJICKNH_00216 putative protein YxeI
+JHJICKNH_00217 Glycyl-glycine endopeptidase LytM
+JHJICKNH_00218 Linearmycin resistance ATP-binding protein LnrL
+JHJICKNH_00225 Type VII secretion system extracellular protein A
+JHJICKNH_00226 Type VII secretion system accessory factor EsaA
+JHJICKNH_00228 Type VII secretion system accessory factor EsaB
+JHJICKNH_00229 Type VII secretion system protein EssB
+JHJICKNH_00230 Type VII secretion system protein EssC
+JHJICKNH_00231 Type VII secretion system extracellular protein C
+JHJICKNH_00232 Type VII secretion system extracellular protein B
+JHJICKNH_00233 Type VII secretion system protein EsaE
+JHJICKNH_00234 Type VII secretion system extracellular protein D
+JHJICKNH_00235 Type VII secretion systems protein EssD
+JHJICKNH_00236 Type VII secretion system protein EsaG
+JHJICKNH_00240 Type VII secretion system protein EsaG
+JHJICKNH_00241 Type VII secretion system protein EsaG
+JHJICKNH_00242 Type VII secretion system protein EsaG
+JHJICKNH_00243 Type VII secretion system protein EsaG
+JHJICKNH_00244 Type VII secretion system protein EsaG
+JHJICKNH_00247 putative formate transporter 1
+JHJICKNH_00248 Branched-chain amino acid transport system 2 carrier protein
+JHJICKNH_00249 Lipoprotein E
+JHJICKNH_00250 putative ABC transporter permease
+JHJICKNH_00251 Putative hemin import ATP-binding protein HrtA
+JHJICKNH_00253 Ribokinase
+JHJICKNH_00254 Pseudouridine-5'-phosphate glycosidase
+JHJICKNH_00255 Nucleoside permease NupC
+JHJICKNH_00256 Sodium/glucose cotransporter
+JHJICKNH_00257 N-acetylneuraminate lyase
+JHJICKNH_00258 Beta-glucoside kinase
+JHJICKNH_00259 putative HTH-type transcriptional regulator YbbH
+JHJICKNH_00260 Putative N-acetylmannosamine-6-phosphate 2-epimerase
+JHJICKNH_00262 Lipase 2
+JHJICKNH_00264 putative oxidoreductase
+JHJICKNH_00266 Glycine cleavage system H-like protein
+JHJICKNH_00267 Protein-ADP-ribose hydrolase
+JHJICKNH_00268 Protein ADP-ribosyltransferase
+JHJICKNH_00269 Lipoate--protein ligase 2
+JHJICKNH_00270 UDP-glucose 4-epimerase
+JHJICKNH_00271 Ascorbate-specific PTS system EIIC component
+JHJICKNH_00273 Mannitol-specific cryptic phosphotransferase enzyme IIA component
+JHJICKNH_00275 Transcriptional regulator SlyA
+JHJICKNH_00276 Multidrug export protein MepA
+JHJICKNH_00278 Glycerol-3-phosphate transporter
+JHJICKNH_00279 Putative ring-cleaving dioxygenase MhqA
+JHJICKNH_00280 Alkanal monooxygenase alpha chain
+JHJICKNH_00281 NAD(P)H-dependent FAD/FMN reductase
+JHJICKNH_00283 Putative ribosomal N-acetyltransferase YdaF
+JHJICKNH_00284 putative iron uptake system component EfeM
+JHJICKNH_00285 putative deferrochelatase/peroxidase EfeN
+JHJICKNH_00287 Sec-independent protein translocase protein TatCy
+JHJICKNH_00288 Sec-independent protein translocase protein TatAy
+JHJICKNH_00292 Vitamin B12 import ATP-binding protein BtuD
+JHJICKNH_00295 putative acetyl-CoA acyltransferase
+JHJICKNH_00296 Isatin hydrolase
+JHJICKNH_00297 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+JHJICKNH_00298 Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+JHJICKNH_00299 Cystathionine beta-lyase MetC
+JHJICKNH_00300 Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+JHJICKNH_00301 Stage 0 sporulation protein J
+JHJICKNH_00302 Small-conductance mechanosensitive channel
+JHJICKNH_00304 Ribosome-binding ATPase YchF
+JHJICKNH_00306 30S ribosomal protein S6
+JHJICKNH_00307 Single-stranded DNA-binding protein A
+JHJICKNH_00308 30S ribosomal protein S18
+JHJICKNH_00310 Tyrosine recombinase XerD
+JHJICKNH_00311 Enterotoxin-like toxin X
+JHJICKNH_00316 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+JHJICKNH_00320 Alkyl hydroperoxide reductase subunit F
+JHJICKNH_00321 Alkyl hydroperoxide reductase C
+JHJICKNH_00322 NADPH-dependent oxidoreductase
+JHJICKNH_00323 L-cystine uptake protein TcyP
+JHJICKNH_00324 putative protein
+JHJICKNH_00327 Xanthine phosphoribosyltransferase
+JHJICKNH_00328 Uric acid permease PucK
+JHJICKNH_00329 Inosine-5'-monophosphate dehydrogenase
+JHJICKNH_00330 GMP synthase [glutamine-hydrolyzing]
+JHJICKNH_00336 Quinone oxidoreductase 2
+JHJICKNH_00337 Staphylococcal superantigen-like 1
+JHJICKNH_00338 Staphylococcal superantigen-like 4
+JHJICKNH_00339 Staphylococcal superantigen-like 3
+JHJICKNH_00340 Staphylococcal superantigen-like 4
+JHJICKNH_00341 Staphylococcal superantigen-like 5
+JHJICKNH_00342 Staphylococcal superantigen-like 4
+JHJICKNH_00343 Staphylococcal superantigen-like 7
+JHJICKNH_00344 Staphylococcal superantigen-like 7
+JHJICKNH_00345 Staphylococcal superantigen-like 7
+JHJICKNH_00346 Staphylococcal superantigen-like 10
+JHJICKNH_00347 Type I restriction enzyme EcoKI M protein
+JHJICKNH_00349 Staphylococcal superantigen-like 5
+JHJICKNH_00352 putative lipoprotein
+JHJICKNH_00353 putative lipoprotein
+JHJICKNH_00354 putative lipoprotein
+JHJICKNH_00359 Putative metal chaperone YciC
+JHJICKNH_00360 NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+JHJICKNH_00364 Carboxylesterase
+JHJICKNH_00367 O-acetylserine dependent cystathionine beta-synthase
+JHJICKNH_00368 Cystathionine gamma-lyase
+JHJICKNH_00369 Methionine import ATP-binding protein MetN
+JHJICKNH_00370 Methionine import system permease protein MetP
+JHJICKNH_00371 putative D-methionine-binding lipoprotein MetQ
+JHJICKNH_00372 N-acetylmuramoyl-L-alanine amidase sle1
+JHJICKNH_00378 HTH-type transcriptional regulator HdfR
+JHJICKNH_00379 Glutamate synthase [NADPH] large chain
+JHJICKNH_00380 Glutamate synthase [NADPH] small chain
+JHJICKNH_00382 PTS system trehalose-specific EIIBC component
+JHJICKNH_00383 Trehalose-6-phosphate hydrolase
+JHJICKNH_00384 HTH-type transcriptional regulator TreR
+JHJICKNH_00386 Holliday junction ATP-dependent DNA helicase RuvB
+JHJICKNH_00387 Nucleoid-associated protein
+JHJICKNH_00388 Recombination protein RecR
+JHJICKNH_00392 Arginine decarboxylase
+JHJICKNH_00393 Thymidylate kinase
+JHJICKNH_00394 Cyclic di-AMP receptor A
+JHJICKNH_00397 Initiation-control protein YabA
+JHJICKNH_00398 tRNA1(Val) (adenine(37)-N6)-methyltransferase
+JHJICKNH_00400 Ribosomal RNA small subunit methyltransferase I
+JHJICKNH_00401 Methionine--tRNA ligase
+JHJICKNH_00402 D-aminoacyl-tRNA deacylase
+JHJICKNH_00403 Ribonuclease M5
+JHJICKNH_00404 Ribosomal RNA small subunit methyltransferase A
+JHJICKNH_00405 Protein Veg
+JHJICKNH_00406 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+JHJICKNH_00407 Pur operon repressor
+JHJICKNH_00408 2-iminobutanoate/2-iminopropanoate deaminase
+JHJICKNH_00409 Putative septation protein SpoVG
+JHJICKNH_00410 Bifunctional protein GlmU
+JHJICKNH_00411 Ribose-phosphate pyrophosphokinase
+JHJICKNH_00412 50S ribosomal protein L25
+JHJICKNH_00413 Peptidyl-tRNA hydrolase
+JHJICKNH_00414 Transcription-repair-coupling factor
+JHJICKNH_00418 Cell division protein DivIC
+JHJICKNH_00419 Polyribonucleotide nucleotidyltransferase
+JHJICKNH_00420 tRNA(Ile)-lysidine synthase
+JHJICKNH_00421 Hypoxanthine-guanine phosphoribosyltransferase
+JHJICKNH_00422 ATP-dependent zinc metalloprotease FtsH
+JHJICKNH_00423 33 kDa chaperonin
+JHJICKNH_00424 Cysteine synthase
+JHJICKNH_00425 Dihydropteroate synthase
+JHJICKNH_00426 Dihydroneopterin aldolase
+JHJICKNH_00427 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+JHJICKNH_00428 Lysine--tRNA ligase
+JHJICKNH_00441 HTH-type transcriptional regulatory protein GabR
+JHJICKNH_00442 Pyridoxal 5'-phosphate synthase subunit PdxS
+JHJICKNH_00443 Pyridoxal 5'-phosphate synthase subunit PdxT
+JHJICKNH_00444 Nucleoside permease NupC
+JHJICKNH_00445 Transcriptional regulator CtsR
+JHJICKNH_00446 Protein-arginine kinase activator protein
+JHJICKNH_00447 Protein-arginine kinase
+JHJICKNH_00448 ATP-dependent Clp protease ATP-binding subunit ClpC
+JHJICKNH_00449 DNA repair protein RadA
+JHJICKNH_00450 putative PIN and TRAM-domain containing protein YacL
+JHJICKNH_00451 Glutamate--tRNA ligase
+JHJICKNH_00452 Serine acetyltransferase
+JHJICKNH_00453 Cysteine--tRNA ligase
+JHJICKNH_00454 Mini-ribonuclease 3
+JHJICKNH_00455 Putative TrmH family tRNA/rRNA methyltransferase
+JHJICKNH_00456 putative protein YacP
+JHJICKNH_00458 Protein translocase subunit SecE
+JHJICKNH_00459 Transcription termination/antitermination protein NusG
+JHJICKNH_00460 50S ribosomal protein L11
+JHJICKNH_00461 50S ribosomal protein L1
+JHJICKNH_00462 50S ribosomal protein L10
+JHJICKNH_00463 50S ribosomal protein L7/L12
+JHJICKNH_00464 Ribosomal RNA small subunit methyltransferase C
+JHJICKNH_00465 DNA-directed RNA polymerase subunit beta
+JHJICKNH_00466 DNA-directed RNA polymerase subunit beta'
+JHJICKNH_00467 Ribosome-associated protein L7Ae-like protein
+JHJICKNH_00468 30S ribosomal protein S12
+JHJICKNH_00469 30S ribosomal protein S7
+JHJICKNH_00470 Elongation factor G
+JHJICKNH_00471 Elongation factor Tu
+JHJICKNH_00472 N-acetylcysteine deacetylase
+JHJICKNH_00473 Putative pyridoxal phosphate-dependent acyltransferase
+JHJICKNH_00474 Protein/nucleic acid deglycase HchA
+JHJICKNH_00475 Ribulokinase
+JHJICKNH_00476 putative epimerase/dehydratase
+JHJICKNH_00477 putative branched-chain-amino-acid aminotransferase
+JHJICKNH_00478 Pyrophosphatase PpaX
+JHJICKNH_00479 Deoxyadenosine/deoxycytidine kinase
+JHJICKNH_00480 Deoxyguanosine kinase
+JHJICKNH_00481 tRNA-specific adenosine deaminase
+JHJICKNH_00482 Phosphatase YwpJ
+JHJICKNH_00483 FMN-dependent NADPH-azoreductase
+JHJICKNH_00484 Serine-aspartate repeat-containing protein C
+JHJICKNH_00485 Serine-aspartate repeat-containing protein D
+JHJICKNH_00486 UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+JHJICKNH_00487 UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+JHJICKNH_00488 GTP cyclohydrolase FolE2
+JHJICKNH_00489 putative N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 2
+JHJICKNH_00490 putative protein YojF
+JHJICKNH_00491 Glucosamine-6-phosphate deaminase
+JHJICKNH_00492 3-hexulose-6-phosphate synthase
+JHJICKNH_00493 3-hexulose-6-phosphate isomerase
+JHJICKNH_00494 Phosphoglycolate phosphatase
+JHJICKNH_00495 Proline/betaine transporter
+JHJICKNH_00496 2-succinylbenzoate--CoA ligase
+JHJICKNH_00497 Putative acetyl-CoA C-acetyltransferase YhfS
+JHJICKNH_00501 Pyridoxine kinase
+JHJICKNH_00502 Uracil-DNA glycosylase
+JHJICKNH_00508 Putative heme-dependent peroxidase
+JHJICKNH_00509 Phosphate acetyltransferase
+JHJICKNH_00510 Octanoyl-[GcvH]:protein N-octanoyltransferase
+JHJICKNH_00511 Galactokinase
+JHJICKNH_00513 Phosphomevalonate kinase
+JHJICKNH_00515 putative pyridine nucleotide-disulfide oxidoreductase RclA
+JHJICKNH_00530 Aldo-keto reductase IolS
+JHJICKNH_00531 Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+JHJICKNH_00535 Alcohol dehydrogenase
+JHJICKNH_00537 putative beta-barrel protein YwiB
+JHJICKNH_00538 Arginine--tRNA ligase
+JHJICKNH_00539 Endonuclease III
+JHJICKNH_00540 Vitamin B12-binding protein
+JHJICKNH_00541 putative ABC transporter permease protein
+JHJICKNH_00542 (S)-2-haloacid dehalogenase 4A
+JHJICKNH_00543 putative protein
+JHJICKNH_00546 Proline iminopeptidase
+JHJICKNH_00547 Transcriptional regulator SarA
+JHJICKNH_00551 Tyrosine recombinase XerD
+JHJICKNH_00552 Na(+)/H(+) antiporter subunit A
+JHJICKNH_00553 Na(+)/H(+) antiporter subunit B
+JHJICKNH_00554 Na(+)/H(+) antiporter subunit C
+JHJICKNH_00555 Na(+)/H(+) antiporter subunit D1
+JHJICKNH_00556 Na(+)/H(+) antiporter subunit E
+JHJICKNH_00557 Na(+)/H(+) antiporter subunit F
+JHJICKNH_00559 Sodium, potassium, lithium and rubidium/H(+) antiporter
+JHJICKNH_00560 Manganese-binding lipoprotein MntA
+JHJICKNH_00561 Manganese transport system membrane protein MntB
+JHJICKNH_00562 Manganese transport system ATP-binding protein MntB
+JHJICKNH_00563 HTH-type transcriptional regulator MntR
+JHJICKNH_00565 N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+JHJICKNH_00566 Teichoic acids export ATP-binding protein TagH
+JHJICKNH_00567 Teichoic acid translocation permease protein TagG
+JHJICKNH_00568 Teichoic acid glycerol-phosphate primase
+JHJICKNH_00569 Putative glycosyltransferase TagX
+JHJICKNH_00570 Glycerol-3-phosphate cytidylyltransferase
+JHJICKNH_00572 Multidrug resistance ABC transporter ATP-binding/permease protein BmrA
+JHJICKNH_00573 Purine nucleoside transport protein NupG
+JHJICKNH_00575 Ferric enterobactin transport ATP-binding protein FepC
+JHJICKNH_00576 Iron-uptake system permease protein FeuB
+JHJICKNH_00577 Iron-uptake system permease protein FeuC
+JHJICKNH_00578 PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+JHJICKNH_00579 PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+JHJICKNH_00580 PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM
+JHJICKNH_00583 Acetyl esterase
+JHJICKNH_00587 Response regulator protein GraR
+JHJICKNH_00588 Sensor histidine kinase GraS
+JHJICKNH_00589 Bacitracin export ATP-binding protein BceA
+JHJICKNH_00590 Bacitracin export permease protein BceB
+JHJICKNH_00593 putative autolysin SsaALP
+JHJICKNH_00595 HTH-type transcriptional activator RhaR
+JHJICKNH_00596 HTH-type transcriptional regulator SarX
+JHJICKNH_00597 putative transcriptional regulatory protein
+JHJICKNH_00600 HTH-type transcriptional regulator HdfR
+JHJICKNH_00601 Sugar efflux transporter C
+JHJICKNH_00607 Acetyltransferase
+JHJICKNH_00608 Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+JHJICKNH_00611 Undecaprenyl-diphosphatase
+JHJICKNH_00612 ATP-binding/permease protein CydD
+JHJICKNH_00613 Putative multidrug export ATP-binding/permease protein
+JHJICKNH_00614 HTH-type transcriptional regulator MgrA
+JHJICKNH_00615 Putative metal chaperone YciC
+JHJICKNH_00616 Oxidoreductase YdhF
+JHJICKNH_00619 Deoxyribodipyrimidine photo-lyase
+JHJICKNH_00623 Tetracycline resistance protein, class B
+JHJICKNH_00625 Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+JHJICKNH_00626 putative HTH-type transcriptional regulator YdjF
+JHJICKNH_00627 Tagatose-6-phosphate kinase
+JHJICKNH_00628 PTS system fructose-specific EIIABC component
+JHJICKNH_00629 N-acetylglucosamine-6-phosphate deacetylase
+JHJICKNH_00631 putative oxidoreductase/MSMEI_2347
+JHJICKNH_00632 Putative glycosyltransferase CsbB
+JHJICKNH_00633 Histidine protein kinase SaeS
+JHJICKNH_00634 Response regulator SaeR
+JHJICKNH_00638 7-carboxy-7-deazaguanine synthase
+JHJICKNH_00639 6-carboxy-5,6,7,8-tetrahydropterin synthase
+JHJICKNH_00640 7-cyano-7-deazaguanine synthase
+JHJICKNH_00641 Anthranilate synthase component 2
+JHJICKNH_00642 Isochorismate synthase MenF
+JHJICKNH_00644 5-oxoprolinase subunit B
+JHJICKNH_00645 5-oxoprolinase subunit C
+JHJICKNH_00646 Lipoteichoic acid synthase
+JHJICKNH_00647 Energy-dependent translational throttle protein EttA
+JHJICKNH_00648 ATP-dependent DNA helicase RecQ
+JHJICKNH_00649 Vitamin B12 import ATP-binding protein BtuD
+JHJICKNH_00651 Histidinol-phosphate aminotransferase
+JHJICKNH_00652 Putative 5'(3')-deoxyribonucleotidase
+JHJICKNH_00653 Putative lipid kinase
+JHJICKNH_00654 Di-/tripeptide transporter
+JHJICKNH_00655 NADPH-dependent 7-cyano-7-deazaguanine reductase
+JHJICKNH_00656 Pseudopaline exporter CntI
+JHJICKNH_00657 Protein NrdI
+JHJICKNH_00658 Ribonucleoside-diphosphate reductase subunit alpha
+JHJICKNH_00659 Ribonucleoside-diphosphate reductase subunit beta
+JHJICKNH_00660 Petrobactin import system permease protein YclN
+JHJICKNH_00661 Petrobactin import system permease protein YclO
+JHJICKNH_00662 Petrobactin import ATP-binding protein YclP
+JHJICKNH_00663 Petrobactin-binding protein YclQ
+JHJICKNH_00665 UDP-N-acetylenolpyruvoylglucosamine reductase
+JHJICKNH_00669 Glycerate 2-kinase
+JHJICKNH_00670 Peptidase T
+JHJICKNH_00672 Inner membrane protein YjjP
+JHJICKNH_00674 putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+JHJICKNH_00677 ComF operon protein 1
+JHJICKNH_00679 Ribosome hibernation promotion factor
+JHJICKNH_00680 Protein translocase subunit SecA 1
+JHJICKNH_00681 Peptide chain release factor 2
+JHJICKNH_00682 putative autolysin LDP
+JHJICKNH_00683 5'-deoxynucleotidase YfbR
+JHJICKNH_00685 UvrABC system protein B
+JHJICKNH_00686 IS5 family transposase IS5
+JHJICKNH_00687 UvrABC system protein B
+JHJICKNH_00688 UvrABC system protein A
+JHJICKNH_00689 HPr kinase/phosphorylase
+JHJICKNH_00690 Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+JHJICKNH_00691 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+JHJICKNH_00693 Thioredoxin reductase
+JHJICKNH_00695 Nucleotide-binding protein
+JHJICKNH_00696 Gluconeogenesis factor
+JHJICKNH_00697 putative cell division protein WhiA
+JHJICKNH_00699 ATP-dependent Clp protease proteolytic subunit
+JHJICKNH_00700 Epimerase family protein
+JHJICKNH_00702 Central glycolytic genes regulator
+JHJICKNH_00703 Glyceraldehyde-3-phosphate dehydrogenase 1
+JHJICKNH_00704 Phosphoglycerate kinase
+JHJICKNH_00705 Triosephosphate isomerase
+JHJICKNH_00706 2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+JHJICKNH_00707 Enolase
+JHJICKNH_00709 putative protein-export membrane protein SecG
+JHJICKNH_00710 Carboxylesterase
+JHJICKNH_00711 Ribonuclease R
+JHJICKNH_00712 SsrA-binding protein
+JHJICKNH_00718 Clumping factor A
+JHJICKNH_00720 Extracellular matrix protein-binding protein emp
+JHJICKNH_00722 Thermonuclease
+JHJICKNH_00723 Cold shock protein CspA
+JHJICKNH_00731 Putative phosphoserine phosphatase 2
+JHJICKNH_00732 Arginine exporter protein ArgO
+JHJICKNH_00734 Organic hydroperoxide resistance protein-like protein
+JHJICKNH_00735 3-dehydroquinate dehydratase
+JHJICKNH_00737 Thioredoxin-like protein YdbP
+JHJICKNH_00738 Regulatory protein MgsR
+JHJICKNH_00739 Glycine cleavage system H protein
+JHJICKNH_00741 putative protein YwqG
+JHJICKNH_00742 Ribonuclease M5
+JHJICKNH_00744 Methionine import ATP-binding protein MetN 2
+JHJICKNH_00745 Methionine import system permease protein MetP
+JHJICKNH_00746 Methionine-binding lipoprotein MetQ
+JHJICKNH_00749 Vegetative protein 296
+JHJICKNH_00751 putative cysteine desulfurase
+JHJICKNH_00752 Zinc-dependent sulfurtransferase SufU
+JHJICKNH_00756 Nitronate monooxygenase
+JHJICKNH_00760 Lipoyl synthase
+JHJICKNH_00764 Acid sugar phosphatase
+JHJICKNH_00765 Glyoxylate/hydroxypyruvate reductase B
+JHJICKNH_00767 D-alanine--D-alanyl carrier protein ligase
+JHJICKNH_00768 Peptidoglycan O-acetyltransferase
+JHJICKNH_00769 D-alanyl carrier protein
+JHJICKNH_00770 Protein DltD
+JHJICKNH_00771 Fe/S biogenesis protein NfuA
+JHJICKNH_00773 NADH dehydrogenase-like protein YjlD
+JHJICKNH_00775 Protein
+JHJICKNH_00776 NADH dehydrogenase-like protein
+JHJICKNH_00777 Cytosol aminopeptidase
+JHJICKNH_00779 Putative esterase
+JHJICKNH_00781 Na(+)/H(+) antiporter subunit G1
+JHJICKNH_00782 Na(+)/H(+) antiporter subunit F1
+JHJICKNH_00783 Na(+)/H(+) antiporter subunit E1
+JHJICKNH_00784 Na(+)/H(+) antiporter subunit D1
+JHJICKNH_00785 Na(+)/H(+) antiporter subunit C1
+JHJICKNH_00786 Na(+)/H(+) antiporter subunit B1
+JHJICKNH_00787 Na(+)/H(+) antiporter subunit A1
+JHJICKNH_00788 Kinase-associated lipoprotein B
+JHJICKNH_00789 Putative peptidyl-prolyl cis-trans isomerase
+JHJICKNH_00790 General stress protein 13
+JHJICKNH_00791 putative oxidoreductase
+JHJICKNH_00792 Ornithine aminotransferase 2
+JHJICKNH_00793 NAD-specific glutamate dehydrogenase
+JHJICKNH_00794 Glycerophosphodiester phosphodiesterase
+JHJICKNH_00795 Argininosuccinate lyase
+JHJICKNH_00796 Argininosuccinate synthase
+JHJICKNH_00797 Glucose-6-phosphate isomerase
+JHJICKNH_00798 TVP38/TMEM64 family inner membrane protein YdjZ
+JHJICKNH_00799 Signal peptidase IB
+JHJICKNH_00800 Signal peptidase IB
+JHJICKNH_00801 ATP-dependent helicase/deoxyribonuclease subunit B
+JHJICKNH_00802 ATP-dependent helicase/nuclease subunit A
+JHJICKNH_00803 putative protein
+JHJICKNH_00805 Coenzyme A disulfide reductase
+JHJICKNH_00806 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+JHJICKNH_00807 Fe-S protein maturation auxiliary factor SufT
+JHJICKNH_00808 O-acetyltransferase OatA
+JHJICKNH_00809 Chaperone protein ClpB
+JHJICKNH_00810 HTH-type transcriptional activator AmpR
+JHJICKNH_00811 2-isopropylmalate synthase
+JHJICKNH_00812 Putative threonylcarbamoyl-AMP synthase
+JHJICKNH_00815 Protein map
+JHJICKNH_00817 3-oxoacyl-[acyl-carrier-protein] synthase 3
+JHJICKNH_00818 3-oxoacyl-[acyl-carrier-protein] synthase 2
+JHJICKNH_00820 Oligopeptide transport system permease protein OppB
+JHJICKNH_00821 Oligopeptide transport system permease protein OppC
+JHJICKNH_00822 Oligopeptide transport ATP-binding protein OppD
+JHJICKNH_00823 Oligopeptide transport ATP-binding protein OppF
+JHJICKNH_00824 Dipeptide-binding protein DppE
+JHJICKNH_00825 Oligopeptide-binding protein AppA
+JHJICKNH_00826 Oligopeptide transport ATP-binding protein OppD
+JHJICKNH_00827 Oligopeptide transport ATP-binding protein OppF
+JHJICKNH_00828 Glutathione transport system permease protein GsiC
+JHJICKNH_00829 Dipeptide transport system permease protein DppC
+JHJICKNH_00830 Tryptophan--tRNA ligase
+JHJICKNH_00831 Regulatory protein Spx
+JHJICKNH_00832 Adapter protein MecA
+JHJICKNH_00834 Oligoendopeptidase F, plasmid
+JHJICKNH_00836 Group 2 truncated hemoglobin YjbI
+JHJICKNH_00837 Putative triphosphatase YjbK
+JHJICKNH_00839 GTP pyrophosphokinase YjbM
+JHJICKNH_00840 NAD kinase
+JHJICKNH_00842 Magnesium transporter MgtE
+JHJICKNH_00843 Glutathione-regulated potassium-efflux system protein KefB
+JHJICKNH_00844 Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+JHJICKNH_00845 Putative transport protein
+JHJICKNH_00846 Sodium/proton-dependent alanine carrier protein
+JHJICKNH_00848 Putative phosphoesterase
+JHJICKNH_00849 putative glycolipid permease LtaA
+JHJICKNH_00850 Processive diacylglycerol beta-glucosyltransferase
+JHJICKNH_00851 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+JHJICKNH_00853 Peptide chain release factor 3
+JHJICKNH_00855 Serine protease HtrA-like protein
+JHJICKNH_00856 Ktr system potassium uptake protein B
+JHJICKNH_00862 Lipoate--protein ligase 1
+JHJICKNH_00867 putative ABC transporter ATP-binding protein
+JHJICKNH_00870 Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+JHJICKNH_00871 Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+JHJICKNH_00872 Putative oxidoreductase CatD
+JHJICKNH_00873 Fe(3+)-citrate-binding protein YfmC
+JHJICKNH_00877 1,4-dihydroxy-2-naphthoate octaprenyltransferase
+JHJICKNH_00878 Salicylate biosynthesis isochorismate synthase
+JHJICKNH_00879 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+JHJICKNH_00880 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+JHJICKNH_00881 1,4-dihydroxy-2-naphthoyl-CoA synthase
+JHJICKNH_00882 Staphostatin B
+JHJICKNH_00883 Staphopain B
+JHJICKNH_00884 Glutamyl endopeptidase
+JHJICKNH_00885 putative N-acetyl-LL-diaminopimelate aminotransferase
+JHJICKNH_00887 Transcriptional regulator SlyA
+JHJICKNH_00888 Bifunctional autolysin
+JHJICKNH_00889 Acetyltransferase
+JHJICKNH_00891 Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+JHJICKNH_00892 Teichoic acid D-alanine hydrolase
+JHJICKNH_00893 Quinol oxidase subunit 4
+JHJICKNH_00894 Quinol oxidase subunit 3
+JHJICKNH_00895 putative quinol oxidase subunit 1
+JHJICKNH_00896 putative quinol oxidase subunit 2
+JHJICKNH_00898 Bifunctional protein FolD protein
+JHJICKNH_00899 N5-carboxyaminoimidazole ribonucleotide mutase
+JHJICKNH_00900 N5-carboxyaminoimidazole ribonucleotide synthase
+JHJICKNH_00901 Phosphoribosylaminoimidazole-succinocarboxamide synthase
+JHJICKNH_00902 Phosphoribosylformylglycinamidine synthase subunit PurS
+JHJICKNH_00903 Phosphoribosylformylglycinamidine synthase subunit PurQ
+JHJICKNH_00904 Phosphoribosylformylglycinamidine synthase subunit PurL
+JHJICKNH_00905 Amidophosphoribosyltransferase
+JHJICKNH_00906 Phosphoribosylformylglycinamidine cyclo-ligase
+JHJICKNH_00907 Phosphoribosylglycinamide formyltransferase
+JHJICKNH_00908 Bifunctional purine biosynthesis protein PurH
+JHJICKNH_00909 Phosphoribosylamine--glycine ligase
+JHJICKNH_00910 Energy-coupling factor transporter transmembrane protein EcfT
+JHJICKNH_00911 Putative HMP/thiamine import ATP-binding protein YkoD
+JHJICKNH_00912 Putative HMP/thiamine permease protein YkoE
+JHJICKNH_00915 Ribosomal RNA large subunit methyltransferase I
+JHJICKNH_00917 Phosphocarrier protein HPr
+JHJICKNH_00918 Phosphoenolpyruvate-protein phosphotransferase
+JHJICKNH_00920 Putative cytochrome bd menaquinol oxidase subunit I
+JHJICKNH_00921 Putative cytochrome bd menaquinol oxidase subunit II
+JHJICKNH_00922 Ktr system potassium uptake protein A
+JHJICKNH_00923 Ribonuclease J 1
+JHJICKNH_00925 Peptide deformylase
+JHJICKNH_00927 Pyruvate dehydrogenase E1 component subunit alpha
+JHJICKNH_00928 Pyruvate dehydrogenase E1 component subunit beta
+JHJICKNH_00929 Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+JHJICKNH_00930 Dihydrolipoyl dehydrogenase
+JHJICKNH_00933 Spermidine/putrescine import ATP-binding protein PotA
+JHJICKNH_00934 Spermidine/putrescine transport system permease protein PotB
+JHJICKNH_00935 Inner membrane ABC transporter permease protein YdcV
+JHJICKNH_00936 Spermidine/putrescine-binding periplasmic protein
+JHJICKNH_00939 Divalent metal cation transporter MntH
+JHJICKNH_00941 Inositol-1-monophosphatase
+JHJICKNH_00943 GTP-binding protein TypA/BipA
+JHJICKNH_00946 putative peptidoglycan glycosyltransferase FtsW
+JHJICKNH_00947 Pyruvate carboxylase
+JHJICKNH_00948 Heme A synthase
+JHJICKNH_00949 Protoheme IX farnesyltransferase 2
+JHJICKNH_00956 Ribosomal RNA small subunit methyltransferase D
+JHJICKNH_00957 Phosphopantetheine adenylyltransferase
+JHJICKNH_00958 tRNA(Met) cytidine acetate ligase
+JHJICKNH_00960 50S ribosomal protein L32
+JHJICKNH_00961 Iron-regulated surface determinant protein B
+JHJICKNH_00962 Iron-regulated surface determinant protein A
+JHJICKNH_00963 Iron-regulated surface determinant protein C
+JHJICKNH_00965 High-affinity heme uptake system protein IsdE
+JHJICKNH_00966 putative heme-iron transport system permease protein IsdF
+JHJICKNH_00967 Sortase B
+JHJICKNH_00968 Heme oxygenase (staphylobilin-producing) 1
+JHJICKNH_00969 Putative TrmH family tRNA/rRNA methyltransferase
+JHJICKNH_00970 Phenylalanine--tRNA ligase alpha subunit
+JHJICKNH_00971 Phenylalanine--tRNA ligase beta subunit
+JHJICKNH_00972 Ribonuclease HIII
+JHJICKNH_00973 Cell division protein ZapA
+JHJICKNH_00975 DNA polymerase/3'-5' exonuclease PolX
+JHJICKNH_00976 Endonuclease MutS2
+JHJICKNH_00977 Thioredoxin
+JHJICKNH_00978 UvrABC system protein C
+JHJICKNH_00979 Succinate dehydrogenase cytochrome b558 subunit
+JHJICKNH_00980 Fumarate reductase flavoprotein subunit
+JHJICKNH_00981 Fumarate reductase iron-sulfur subunit
+JHJICKNH_00982 Glutamate racemase
+JHJICKNH_00983 dITP/XTP pyrophosphatase
+JHJICKNH_00986 FPRL1 inhibitory protein
+JHJICKNH_00988 Fibrinogen-binding protein
+JHJICKNH_00989 Staphylococcal complement inhibitor
+JHJICKNH_00992 Alpha-hemolysin
+JHJICKNH_00995 Superantigen-like protein 13
+JHJICKNH_00996 Superantigen-like protein 13
+JHJICKNH_00997 Superantigen-like protein 13
+JHJICKNH_00998 Ornithine carbamoyltransferase
+JHJICKNH_00999 Carbamate kinase 1
+JHJICKNH_01005 Antibacterial protein 3
+JHJICKNH_01006 Antibacterial protein 3
+JHJICKNH_01007 Putative HAD-hydrolase YfnB
+JHJICKNH_01008 putative N-acetyltransferase
+JHJICKNH_01009 Putative cysteine ligase BshC
+JHJICKNH_01010 Putative cysteine ligase BshC
+JHJICKNH_01011 Transcriptional regulator MraZ
+JHJICKNH_01012 Ribosomal RNA small subunit methyltransferase H
+JHJICKNH_01013 Cell division protein FtsL
+JHJICKNH_01014 Penicillin-binding protein 2B
+JHJICKNH_01015 Phospho-N-acetylmuramoyl-pentapeptide-transferase
+JHJICKNH_01016 UDP-N-acetylmuramoylalanine--D-glutamate ligase
+JHJICKNH_01017 Cell division protein DivIB
+JHJICKNH_01018 Cell division protein FtsA
+JHJICKNH_01019 Cell division protein FtsZ
+JHJICKNH_01020 Polyphenol oxidase
+JHJICKNH_01021 Pyridoxal phosphate homeostasis protein
+JHJICKNH_01022 Cell division protein SepF
+JHJICKNH_01026 Isoleucine--tRNA ligase
+JHJICKNH_01027 Catechol-2,3-dioxygenase
+JHJICKNH_01029 Lipoprotein signal peptidase
+JHJICKNH_01030 Ribosomal large subunit pseudouridine synthase D
+JHJICKNH_01031 Bifunctional protein PyrR
+JHJICKNH_01032 Uracil permease
+JHJICKNH_01033 Aspartate carbamoyltransferase
+JHJICKNH_01034 Dihydroorotase
+JHJICKNH_01035 Carbamoyl-phosphate synthase small chain
+JHJICKNH_01036 Carbamoyl-phosphate synthase large chain
+JHJICKNH_01037 Orotidine 5'-phosphate decarboxylase
+JHJICKNH_01038 Orotate phosphoribosyltransferase
+JHJICKNH_01041 Rqc2 RqcH
+JHJICKNH_01042 Guanylate kinase
+JHJICKNH_01043 DNA-directed RNA polymerase subunit omega
+JHJICKNH_01044 Coenzyme A biosynthesis bifunctional protein CoaBC
+JHJICKNH_01045 primosomal protein N'
+JHJICKNH_01048 Peptide deformylase 1
+JHJICKNH_01049 Methionyl-tRNA formyltransferase
+JHJICKNH_01050 Ribosomal RNA small subunit methyltransferase B
+JHJICKNH_01051 putative dual-specificity RNA methyltransferase RlmN
+JHJICKNH_01052 Serine/threonine phosphatase stp
+JHJICKNH_01053 Serine/threonine-protein kinase PrkC
+JHJICKNH_01054 Small ribosomal subunit biogenesis GTPase RsgA
+JHJICKNH_01055 Ribulose-phosphate 3-epimerase
+JHJICKNH_01056 Thiamine pyrophosphokinase
+JHJICKNH_01057 50S ribosomal protein L28
+JHJICKNH_01058 putative protein
+JHJICKNH_01059 putative protein
+JHJICKNH_01060 ATP-dependent DNA helicase RecG
+JHJICKNH_01061 Transcription factor FapR
+JHJICKNH_01062 Phosphate acyltransferase
+JHJICKNH_01063 Malonyl CoA-acyl carrier protein transacylase
+JHJICKNH_01064 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+JHJICKNH_01065 Acyl carrier protein
+JHJICKNH_01066 Ribonuclease 3
+JHJICKNH_01067 Chromosome partition protein Smc
+JHJICKNH_01068 Signal recognition particle receptor FtsY
+JHJICKNH_01070 Signal recognition particle protein
+JHJICKNH_01071 30S ribosomal protein S16
+JHJICKNH_01072 Ribosome maturation factor RimM
+JHJICKNH_01073 tRNA (guanine-N(1)-)-methyltransferase
+JHJICKNH_01074 50S ribosomal protein L19
+JHJICKNH_01076 Ribosome biogenesis GTPase A
+JHJICKNH_01077 Ribonuclease HII
+JHJICKNH_01078 Succinate--CoA ligase [ADP-forming] subunit beta
+JHJICKNH_01079 Succinate--CoA ligase [ADP-forming] subunit alpha
+JHJICKNH_01080 putative cell wall hydrolase LytN
+JHJICKNH_01081 Aminoacyltransferase FemA
+JHJICKNH_01083 DNA topoisomerase 1
+JHJICKNH_01084 Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+JHJICKNH_01085 Tyrosine recombinase XerC
+JHJICKNH_01086 ATP-dependent protease subunit HslV
+JHJICKNH_01087 ATP-dependent protease ATPase subunit HslU
+JHJICKNH_01088 GTP-sensing transcriptional pleiotropic repressor CodY
+JHJICKNH_01089 30S ribosomal protein S2
+JHJICKNH_01090 30S ribosomal protein S2
+JHJICKNH_01091 Elongation factor Ts
+JHJICKNH_01092 Uridylate kinase
+JHJICKNH_01093 Ribosome-recycling factor
+JHJICKNH_01094 Isoprenyl transferase
+JHJICKNH_01096 Putative zinc metalloprotease
+JHJICKNH_01097 Proline--tRNA ligase
+JHJICKNH_01098 DNA polymerase III PolC-type
+JHJICKNH_01099 Ribosome maturation factor RimP
+JHJICKNH_01100 Transcription termination/antitermination protein NusA
+JHJICKNH_01102 putative ribosomal protein YlxQ
+JHJICKNH_01103 Translation initiation factor IF-2
+JHJICKNH_01104 Ribosome-binding factor A
+JHJICKNH_01105 tRNA pseudouridine synthase B
+JHJICKNH_01106 Bifunctional riboflavin kinase/FMN adenylyltransferase
+JHJICKNH_01107 30S ribosomal protein S15
+JHJICKNH_01108 Polyribonucleotide nucleotidyltransferase
+JHJICKNH_01109 Ribonuclease J 2
+JHJICKNH_01110 DNA translocase FtsK
+JHJICKNH_01111 HTH-type transcriptional repressor GamR
+JHJICKNH_01114 Acetoacetyl-CoA reductase
+JHJICKNH_01117 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+JHJICKNH_01118 Putative competence-damage inducible protein
+JHJICKNH_01119 Protein RecA
+JHJICKNH_01120 Ribonuclease Y
+JHJICKNH_01122 2',3'-cyclic-nucleotide 2'-phosphodiesterase
+JHJICKNH_01123 2-oxoglutarate oxidoreductase subunit KorA
+JHJICKNH_01126 tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+JHJICKNH_01127 putative protein YmcA
+JHJICKNH_01129 DNA mismatch repair protein MutS
+JHJICKNH_01130 DNA mismatch repair protein MutL
+JHJICKNH_01131 Glycerol uptake operon antiterminator regulatory protein
+JHJICKNH_01132 Glycerol uptake facilitator protein
+JHJICKNH_01133 Glycerol kinase
+JHJICKNH_01134 Aerobic glycerol-3-phosphate dehydrogenase
+JHJICKNH_01135 Monoacylglycerol lipase
+JHJICKNH_01136 tRNA dimethylallyltransferase
+JHJICKNH_01137 RNA-binding protein Hfq
+JHJICKNH_01138 Glutathione peroxidase BsaA
+JHJICKNH_01139 GTPase HflX
+JHJICKNH_01141 HTH-type transcriptional regulator GlnR
+JHJICKNH_01142 Glutamine synthetase
+JHJICKNH_01158 Low specificity L-threonine aldolase
+JHJICKNH_01160 Cardiolipin synthase
+JHJICKNH_01161 Linearmycin resistance ATP-binding protein LnrL
+JHJICKNH_01164 Transcriptional regulatory protein DesR
+JHJICKNH_01166 Thermonuclease
+JHJICKNH_01169 Aspartokinase 3
+JHJICKNH_01171 Threonine synthase
+JHJICKNH_01172 Homoserine kinase
+JHJICKNH_01173 Putative phosphatase
+JHJICKNH_01175 Lysine-specific permease
+JHJICKNH_01176 Catalase
+JHJICKNH_01177 50S ribosomal protein L33 2
+JHJICKNH_01178 Alternate 30S ribosomal protein S14
+JHJICKNH_01179 GMP reductase
+JHJICKNH_01181 LexA repressor
+JHJICKNH_01184 Transketolase
+JHJICKNH_01187 Nuclease SbcCD subunit D
+JHJICKNH_01188 Nuclease SbcCD subunit C
+JHJICKNH_01189 Large-conductance mechanosensitive channel
+JHJICKNH_01190 Glycine betaine transporter OpuD
+JHJICKNH_01191 Aconitate hydratase A
+JHJICKNH_01192 1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+JHJICKNH_01193 putative protein
+JHJICKNH_01194 Glycerol-3-phosphate acyltransferase
+JHJICKNH_01195 DNA topoisomerase 4 subunit B
+JHJICKNH_01196 DNA topoisomerase 4 subunit A
+JHJICKNH_01197 Amino-acid carrier protein AlsT
+JHJICKNH_01198 GlcA/glcB genes antiterminator
+JHJICKNH_01199 Putative transport protein
+JHJICKNH_01200 Phosphatidylglycerol lysyltransferase
+JHJICKNH_01201 Peptide methionine sulfoxide reductase MsrA 1
+JHJICKNH_01202 Regulatory protein MsrR
+JHJICKNH_01203 putative tautomerase
+JHJICKNH_01204 Protein UmuC
+JHJICKNH_01206 Putative aminopeptidase YsdC
+JHJICKNH_01207 Anthranilate synthase component 1
+JHJICKNH_01208 Anthranilate synthase component 2
+JHJICKNH_01209 Anthranilate phosphoribosyltransferase 2
+JHJICKNH_01210 Indole-3-glycerol phosphate synthase
+JHJICKNH_01211 N-(5'-phosphoribosyl)anthranilate isomerase
+JHJICKNH_01212 Tryptophan synthase beta chain
+JHJICKNH_01213 Tryptophan synthase alpha chain
+JHJICKNH_01214 Aminoacyltransferase FemA
+JHJICKNH_01215 Aminoacyltransferase FemB
+JHJICKNH_01218 Nickel import system ATP-binding protein NikE
+JHJICKNH_01219 Nickel import system ATP-binding protein NikD
+JHJICKNH_01220 Nickel import system permease protein NikC
+JHJICKNH_01221 Nickel import system permease protein NikB
+JHJICKNH_01223 Oligoendopeptidase F, plasmid
+JHJICKNH_01224 Phosphate-specific transport system accessory protein PhoU
+JHJICKNH_01225 Phosphate import ATP-binding protein PstB 3
+JHJICKNH_01226 Phosphate transport system permease protein PstA
+JHJICKNH_01228 Phosphate-binding protein PstS
+JHJICKNH_01229 Conserved virulence factor B
+JHJICKNH_01230 putative ABC transporter ATP-binding protein YbiT
+JHJICKNH_01231 Aspartokinase
+JHJICKNH_01232 Aspartate-semialdehyde dehydrogenase
+JHJICKNH_01233 4-hydroxy-tetrahydrodipicolinate synthase
+JHJICKNH_01234 4-hydroxy-tetrahydrodipicolinate reductase
+JHJICKNH_01235 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+JHJICKNH_01236 N-acetylcysteine deacetylase
+JHJICKNH_01237 Alanine racemase 1
+JHJICKNH_01238 Diaminopimelate decarboxylase
+JHJICKNH_01240 Cold shock protein CspA
+JHJICKNH_01242 Acylphosphatase
+JHJICKNH_01244 TelA-like protein
+JHJICKNH_01246 Branched-chain amino acid transport system 2 carrier protein
+JHJICKNH_01248 Denitrification regulatory protein NirQ
+JHJICKNH_01250 Putative ring-cleaving dioxygenase MhqA
+JHJICKNH_01251 Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+JHJICKNH_01252 2-oxoglutarate dehydrogenase E1 component
+JHJICKNH_01253 Signal transduction histidine-protein kinase ArlS
+JHJICKNH_01254 Response regulator ArlR
+JHJICKNH_01257 UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+JHJICKNH_01259 putative CtpA-like serine protease
+JHJICKNH_01261 PTS system glucose-specific EIIA component
+JHJICKNH_01262 Peptide methionine sulfoxide reductase MsrB
+JHJICKNH_01263 Peptide methionine sulfoxide reductase MsrA 2
+JHJICKNH_01264 DegV domain-containing protein
+JHJICKNH_01265 Dihydrofolate reductase
+JHJICKNH_01266 Thymidylate synthase
+JHJICKNH_01270 queuosine precursor transporter
+JHJICKNH_01272 14.7 kDa ribonuclease H-like protein
+JHJICKNH_01273 Extracellular matrix-binding protein ebh
+JHJICKNH_01274 Quinolone resistance protein NorB
+JHJICKNH_01275 Serine/threonine exchanger SteT
+JHJICKNH_01276 L-threonine dehydratase catabolic TdcB
+JHJICKNH_01277 Alanine dehydrogenase 1
+JHJICKNH_01278 5'-3' exonuclease
+JHJICKNH_01279 GTPase Der
+JHJICKNH_01282 Ribosomal RNA large subunit methyltransferase L
+JHJICKNH_01284 Cell cycle protein GpsB
+JHJICKNH_01287 Holliday junction resolvase RecU
+JHJICKNH_01288 Penicillin-binding protein 1A/1B
+JHJICKNH_01290 Endonuclease III
+JHJICKNH_01291 DNA replication protein DnaD
+JHJICKNH_01292 Asparagine--tRNA ligase
+JHJICKNH_01293 3'-5' exonuclease DinG
+JHJICKNH_01294 Bifunctional ligase/repressor BirA
+JHJICKNH_01295 CCA-adding enzyme
+JHJICKNH_01296 N-acetyl-alpha-D-glucosaminyl L-malate synthase
+JHJICKNH_01297 putative protein YpjD
+JHJICKNH_01301 Beta-barrel assembly-enhancing protease
+JHJICKNH_01302 3-phosphoshikimate 1-carboxyvinyltransferase
+JHJICKNH_01303 3-dehydroquinate synthase
+JHJICKNH_01304 Chorismate synthase
+JHJICKNH_01306 Nucleoside diphosphate kinase
+JHJICKNH_01307 Heptaprenyl diphosphate synthase component 2
+JHJICKNH_01308 Demethylmenaquinone methyltransferase
+JHJICKNH_01310 DNA-binding protein HU
+JHJICKNH_01311 Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+JHJICKNH_01312 GTPase Der
+JHJICKNH_01313 30S ribosomal protein S1
+JHJICKNH_01314 Cytidylate kinase
+JHJICKNH_01315 putative L-asparaginase
+JHJICKNH_01316 Glucosaminate ammonia-lyase
+JHJICKNH_01317 Elastin-binding protein EbpS
+JHJICKNH_01318 ATP-dependent DNA helicase RecQ
+JHJICKNH_01320 Ferredoxin
+JHJICKNH_01321 Riboflavin transporter RibU
+JHJICKNH_01328 putative autolysin PH
+JHJICKNH_01338 Chromosome partition protein Smc
+JHJICKNH_01348 ATP-dependent Clp protease proteolytic subunit
+JHJICKNH_01363 Deoxyuridine 5'-triphosphate nucleotidohydrolase
+JHJICKNH_01385 LexA repressor
+JHJICKNH_01386 3'-5' exonuclease DinG
+JHJICKNH_01391 Tyrosine recombinase XerC
+JHJICKNH_01394 Sensor protein SrrB
+JHJICKNH_01395 Transcriptional regulatory protein SrrA
+JHJICKNH_01396 Ribosomal large subunit pseudouridine synthase B
+JHJICKNH_01397 Segregation and condensation protein B
+JHJICKNH_01398 Segregation and condensation protein A
+JHJICKNH_01400 Tyrosine recombinase XerD
+JHJICKNH_01401 Ferric uptake regulation protein
+JHJICKNH_01402 ADP-ribose pyrophosphatase
+JHJICKNH_01403 1-deoxyxylulose-5-phosphate synthase YajO
+JHJICKNH_01405 putative oxidoreductase
+JHJICKNH_01406 Pyrroline-5-carboxylate reductase
+JHJICKNH_01407 Ribonuclease Z
+JHJICKNH_01408 Glucose-6-phosphate 1-dehydrogenase
+JHJICKNH_01410 Oligo-1,6-glucosidase
+JHJICKNH_01411 HTH-type transcriptional regulator MalR
+JHJICKNH_01413 6-phosphogluconate dehydrogenase, decarboxylating
+JHJICKNH_01414 Peptidase T
+JHJICKNH_01418 Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+JHJICKNH_01419 2-oxoisovalerate dehydrogenase subunit beta
+JHJICKNH_01420 2-oxoisovalerate dehydrogenase subunit alpha
+JHJICKNH_01421 Dihydrolipoyl dehydrogenase
+JHJICKNH_01422 DNA repair protein RecN
+JHJICKNH_01423 Arginine repressor
+JHJICKNH_01424 Farnesyl diphosphate synthase
+JHJICKNH_01425 Exodeoxyribonuclease 7 small subunit
+JHJICKNH_01426 Exodeoxyribonuclease 7 large subunit
+JHJICKNH_01427 Transcription antitermination protein NusB
+JHJICKNH_01428 putative protein
+JHJICKNH_01429 2-oxoglutarate carboxylase small subunit
+JHJICKNH_01430 Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+JHJICKNH_01431 Elongation factor P
+JHJICKNH_01432 Aminopeptidase YpdF
+JHJICKNH_01435 Octanoyltransferase LipM
+JHJICKNH_01436 putative protein YibN
+JHJICKNH_01437 putative glycine dehydrogenase (decarboxylating) subunit 2
+JHJICKNH_01438 putative glycine dehydrogenase (decarboxylating) subunit 1
+JHJICKNH_01439 Aminomethyltransferase
+JHJICKNH_01440 Shikimate kinase
+JHJICKNH_01444 ComG operon protein 3
+JHJICKNH_01446 ComG operon protein 1
+JHJICKNH_01447 putative metallo-hydrolase
+JHJICKNH_01449 Glucokinase
+JHJICKNH_01451 Rhomboid protease GluP
+JHJICKNH_01452 putative protein YqgN
+JHJICKNH_01453 50S ribosomal protein L33 2
+JHJICKNH_01454 Penicillin-binding protein H
+JHJICKNH_01455 Superoxide dismutase [Mn/Fe] 1
+JHJICKNH_01456 Zinc-specific metallo-regulatory protein
+JHJICKNH_01457 High-affinity zinc uptake system membrane protein ZnuB
+JHJICKNH_01458 Vitamin B12 import ATP-binding protein BtuD
+JHJICKNH_01459 putative endonuclease 4
+JHJICKNH_01460 DEAD-box ATP-dependent RNA helicase CshB
+JHJICKNH_01461 GTP cyclohydrolase 1 type 2 
+JHJICKNH_01462 tRNA (adenine(22)-N(1))-methyltransferase
+JHJICKNH_01463 RNA polymerase sigma factor SigA
+JHJICKNH_01464 DNA primase
+JHJICKNH_01465 Putative pyruvate, phosphate dikinase regulatory protein
+JHJICKNH_01466 Transcriptional repressor CcpN
+JHJICKNH_01467 Glycine--tRNA ligase
+JHJICKNH_01468 DNA repair protein RecO
+JHJICKNH_01469 GTPase Era
+JHJICKNH_01470 Cytidine deaminase
+JHJICKNH_01471 Undecaprenol kinase
+JHJICKNH_01472 Endoribonuclease YbeY
+JHJICKNH_01473 PhoH-like protein
+JHJICKNH_01477 30S ribosomal protein S21
+JHJICKNH_01478 Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+JHJICKNH_01479 Ribosomal RNA small subunit methyltransferase E
+JHJICKNH_01480 Ribosomal protein L11 methyltransferase
+JHJICKNH_01481 Chaperone protein DnaJ
+JHJICKNH_01482 Chaperone protein DnaK
+JHJICKNH_01483 Protein GrpE
+JHJICKNH_01484 Heat-inducible transcription repressor HrcA
+JHJICKNH_01485 Heme chaperone HemW
+JHJICKNH_01486 Elongation factor 4
+JHJICKNH_01487 30S ribosomal protein S20
+JHJICKNH_01488 putative protein YqeN
+JHJICKNH_01489 ComE operon protein 3
+JHJICKNH_01490 tRNA-specific adenosine deaminase
+JHJICKNH_01491 ComE operon protein 1
+JHJICKNH_01492 Trans-aconitate 2-methyltransferase
+JHJICKNH_01493 Ribosomal silencing factor RsfS
+JHJICKNH_01495 putative nicotinate-nucleotide adenylyltransferase
+JHJICKNH_01496 RNA-binding protein YhbY
+JHJICKNH_01497 Shikimate dehydrogenase (NADP(+))
+JHJICKNH_01498 putative protein YqeH
+JHJICKNH_01500 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+JHJICKNH_01502 Enterotoxin type A
+JHJICKNH_01504 Divalent metal cation transporter MntH
+JHJICKNH_01505 5-oxoprolinase subunit A
+JHJICKNH_01506 Biotin carboxylase
+JHJICKNH_01507 Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+JHJICKNH_01508 5-oxoprolinase subunit C
+JHJICKNH_01509 5-oxoprolinase subunit B
+JHJICKNH_01510 Transcription elongation factor GreA
+JHJICKNH_01511 Uridine kinase
+JHJICKNH_01513 23S rRNA 5-hydroxycytidine synthase
+JHJICKNH_01514 tRNA 5-hydroxyuridine methyltransferase
+JHJICKNH_01516 Putative pre-16S rRNA nuclease
+JHJICKNH_01518 Alanine--tRNA ligase
+JHJICKNH_01519 ATP-dependent RecD-like DNA helicase
+JHJICKNH_01520 TPR repeat-containing protein YrrB
+JHJICKNH_01521 tRNA-specific 2-thiouridylase MnmA
+JHJICKNH_01522 tRNA-specific 2-thiouridylase MnmA
+JHJICKNH_01523 Cysteine desulfurase IscS
+JHJICKNH_01528 HTH-type transcriptional regulator CymR
+JHJICKNH_01529 putative AAA domain-containing protein
+JHJICKNH_01531 Aspartate--tRNA ligase
+JHJICKNH_01532 Histidine--tRNA ligase
+JHJICKNH_01534 D-aminoacyl-tRNA deacylase
+JHJICKNH_01535 GTP pyrophosphokinase
+JHJICKNH_01536 Adenine phosphoribosyltransferase
+JHJICKNH_01538 Protein translocase subunit SecDF
+JHJICKNH_01539 Sec translocon accessory complex subunit YajC
+JHJICKNH_01540 Queuine tRNA-ribosyltransferase
+JHJICKNH_01541 S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+JHJICKNH_01542 Holliday junction ATP-dependent DNA helicase RuvB
+JHJICKNH_01543 Holliday junction ATP-dependent DNA helicase RuvA
+JHJICKNH_01545 GTPase Obg
+JHJICKNH_01546 50S ribosomal protein L27
+JHJICKNH_01548 50S ribosomal protein L21
+JHJICKNH_01550 Cell shape-determining protein MreC
+JHJICKNH_01554 Type 4 prepilin-like proteins leader peptide-processing enzyme
+JHJICKNH_01555 Folylpolyglutamate synthase
+JHJICKNH_01556 Valine--tRNA ligase
+JHJICKNH_01557 DNA-3-methyladenine glycosylase 1
+JHJICKNH_01559 Glutamate-1-semialdehyde 2,1-aminomutase 1
+JHJICKNH_01560 Delta-aminolevulinic acid dehydratase
+JHJICKNH_01562 Porphobilinogen deaminase
+JHJICKNH_01564 Glutamyl-tRNA reductase
+JHJICKNH_01565 putative GTP-binding protein EngB
+JHJICKNH_01566 ATP-dependent Clp protease ATP-binding subunit ClpX
+JHJICKNH_01567 Trigger factor
+JHJICKNH_01570 50S ribosomal protein L20
+JHJICKNH_01571 50S ribosomal protein L35
+JHJICKNH_01572 Translation initiation factor IF-3
+JHJICKNH_01573 Lysine-specific permease
+JHJICKNH_01574 Threonine--tRNA ligase
+JHJICKNH_01575 Primosomal protein DnaI
+JHJICKNH_01576 Replication initiation and membrane attachment protein
+JHJICKNH_01577 Transcriptional repressor NrdR
+JHJICKNH_01578 Glyceraldehyde-3-phosphate dehydrogenase 2
+JHJICKNH_01579 Dephospho-CoA kinase
+JHJICKNH_01580 Formamidopyrimidine-DNA glycosylase
+JHJICKNH_01581 DNA polymerase I
+JHJICKNH_01583 Adaptive-response sensory-kinase SasA
+JHJICKNH_01584 Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+JHJICKNH_01585 Isocitrate dehydrogenase [NADP]
+JHJICKNH_01586 Citrate synthase 2
+JHJICKNH_01587 D-serine/D-alanine/glycine transporter
+JHJICKNH_01588 IS1182 family transposase ISSau3
+JHJICKNH_01589 IS1182 family transposase ISSau3
+JHJICKNH_01590 Pyruvate kinase
+JHJICKNH_01591 ATP-dependent 6-phosphofructokinase
+JHJICKNH_01592 Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+JHJICKNH_01593 Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+JHJICKNH_01594 NAD-dependent malic enzyme
+JHJICKNH_01595 DNA polymerase III subunit alpha
+JHJICKNH_01596 Bifunctional oligoribonuclease and PAP phosphatase NrnA
+JHJICKNH_01597 Inosine-5'-monophosphate dehydrogenase
+JHJICKNH_01600 putative peptidase
+JHJICKNH_01601 Alanine dehydrogenase 2
+JHJICKNH_01602 Putative universal stress protein
+JHJICKNH_01603 Acetate kinase
+JHJICKNH_01605 Thiol peroxidase
+JHJICKNH_01606 putative membrane transporter protein YfcA
+JHJICKNH_01607 putative tRNA sulfurtransferase
+JHJICKNH_01608 Cysteine desulfurase IscS
+JHJICKNH_01609 Septation ring formation regulator EzrA
+JHJICKNH_01610 Free methionine-R-sulfoxide reductase
+JHJICKNH_01611 30S ribosomal protein S4
+JHJICKNH_01612 Glycerophosphodiester phosphodiesterase
+JHJICKNH_01614 Soluble hydrogenase 42 kDa subunit
+JHJICKNH_01615 D-3-phosphoglycerate dehydrogenase
+JHJICKNH_01617 PTS system N-acetylglucosamine-specific EIICB component
+JHJICKNH_01618 1-acyl-sn-glycerol-3-phosphate acyltransferase
+JHJICKNH_01620 Tyrosine--tRNA ligase
+JHJICKNH_01621 Penicillin-binding protein 1A
+JHJICKNH_01622 Iron-regulated surface determinant protein H
+JHJICKNH_01623 Formate--tetrahydrofolate ligase
+JHJICKNH_01624 Acetyl-coenzyme A synthetase
+JHJICKNH_01625 Acetoin utilization protein AcuA
+JHJICKNH_01626 Acetoin utilization protein AcuC
+JHJICKNH_01627 Catabolite control protein A
+JHJICKNH_01628 Protein AroA(G)
+JHJICKNH_01631 UDP-N-acetylmuramate--L-alanine ligase
+JHJICKNH_01635 Thioredoxin-like protein YtpP
+JHJICKNH_01636 Glutamyl aminopeptidase
+JHJICKNH_01638 putative quorum-quenching lactonase YtnP
+JHJICKNH_01639 tRNA (guanine-N(7)-)-methyltransferase
+JHJICKNH_01641 D-alanine aminotransferase
+JHJICKNH_01642 Putative dipeptidase
+JHJICKNH_01644 Ribosomal small subunit pseudouridine synthase A
+JHJICKNH_01645 Lipid II flippase MurJ
+JHJICKNH_01646 putative protein
+JHJICKNH_01648 Sulfurtransferase
+JHJICKNH_01649 Leucine--tRNA ligase
+JHJICKNH_01650 Multidrug resistance protein MdtH
+JHJICKNH_01653 HTH-type transcriptional regulator rot
+JHJICKNH_01655 IS1182 family transposase ISSau3
+JHJICKNH_01656 Phospholipase YtpA
+JHJICKNH_01657 Proline dehydrogenase 2
+JHJICKNH_01658 6,7-dimethyl-8-ribityllumazine synthase
+JHJICKNH_01659 Riboflavin biosynthesis protein RibBA
+JHJICKNH_01660 Riboflavin synthase
+JHJICKNH_01661 Riboflavin biosynthesis protein RibD
+JHJICKNH_01664 Arsenical pump membrane protein
+JHJICKNH_01665 Arsenate reductase
+JHJICKNH_01666 Bifunctional autolysin
+JHJICKNH_01668 RNA polymerase sigma factor SigS
+JHJICKNH_01672 Transaldolase
+JHJICKNH_01674 Putative fluoride ion transporter CrcB
+JHJICKNH_01675 Putative fluoride ion transporter CrcB
+JHJICKNH_01676 IS1182 family transposase ISSau3
+JHJICKNH_01677 IS1182 family transposase ISSau3
+JHJICKNH_01678 Glyoxal reductase
+JHJICKNH_01680 S-adenosylmethionine synthase
+JHJICKNH_01681 Phosphoenolpyruvate carboxykinase (ATP)
+JHJICKNH_01682 IS200/IS605 family transposase ISSep3
+JHJICKNH_01684 Putative 8-oxo-dGTP diphosphatase YtkD
+JHJICKNH_01685 Putative membrane protein insertion efficiency factor
+JHJICKNH_01686 o-succinylbenzoate synthase
+JHJICKNH_01687 2-succinylbenzoate--CoA ligase
+JHJICKNH_01701 putative type I restriction enzymeP M protein
+JHJICKNH_01702 Serine protease SplF
+JHJICKNH_01703 Serine protease SplE
+JHJICKNH_01704 Serine protease SplD
+JHJICKNH_01705 Serine protease SplC
+JHJICKNH_01706 Serine protease SplB
+JHJICKNH_01707 Serine protease SplA
+JHJICKNH_01711 Bacitracin transport ATP-binding protein BcrA
+JHJICKNH_01713 Epidermin decarboxylase
+JHJICKNH_01714 Nisin biosynthesis protein NisC
+JHJICKNH_01715 Nisin biosynthesis protein NisB
+JHJICKNH_01716 Lantibiotic gallidermin
+JHJICKNH_01717 Leucotoxin LukDv
+JHJICKNH_01718 Leucotoxin LukEv
+JHJICKNH_01729 Putative hydrolase YdeN
+JHJICKNH_01730 Protoporphyrinogen oxidase
+JHJICKNH_01731 Ferrochelatase
+JHJICKNH_01732 Uroporphyrinogen decarboxylase
+JHJICKNH_01733 Signal transduction protein TRAP
+JHJICKNH_01735 ABC-type transporter ATP-binding protein EcsA
+JHJICKNH_01736 Protein hit
+JHJICKNH_01739 Foldase protein PrsA
+JHJICKNH_01740 3'-5' exoribonuclease YhaM
+JHJICKNH_01742 3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+JHJICKNH_01746 Transcriptional regulatory protein LiaR
+JHJICKNH_01748 Ribosomal large subunit pseudouridine synthase D
+JHJICKNH_01749 Fumarate hydratase class II
+JHJICKNH_01752 Glucosamine-6-phosphate deaminase
+JHJICKNH_01753 tRNA (cytidine(34)-2'-O)-methyltransferase
+JHJICKNH_01754 Epoxyqueuosine reductase
+JHJICKNH_01755 L-cystine import ATP-binding protein TcyC
+JHJICKNH_01756 Membrane-bound lytic murein transglycosylase F
+JHJICKNH_01758 ISL3 family transposase IS1181
+JHJICKNH_01791 Peroxide-responsive repressor PerR
+JHJICKNH_01792 Glyoxylate/hydroxypyruvate reductase B
+JHJICKNH_01793 Putative peroxiredoxin bcp
+JHJICKNH_01794 Glutamate-1-semialdehyde 2,1-aminomutase 2
+JHJICKNH_01796 Putative multidrug export ATP-binding/permease protein
+JHJICKNH_01798 Adenine DNA glycosylase
+JHJICKNH_01799 putative protein YfhP
+JHJICKNH_01801 Teichoic acids export ATP-binding protein TagH
+JHJICKNH_01802 putative protein YfhH
+JHJICKNH_01803 Regulatory protein RecX
+JHJICKNH_01804 Monofunctional glycosyltransferase
+JHJICKNH_01805 putative protein
+JHJICKNH_01810 putative autolysin LytO
+JHJICKNH_01844 Deoxyuridine 5'-triphosphate nucleotidohydrolase
+JHJICKNH_01870 LexA repressor
+JHJICKNH_01875 Tyrosine recombinase XerC
+JHJICKNH_01878 Aminopeptidase PepS
+JHJICKNH_01880 Low molecular weight protein-tyrosine-phosphatase PtpA
+JHJICKNH_01883 Response regulator protein VraR
+JHJICKNH_01884 Sensor protein VraS
+JHJICKNH_01887 Methionine aminopeptidase
+JHJICKNH_01890 Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+JHJICKNH_01891 Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+JHJICKNH_01892 Bacterial non-heme ferritin
+JHJICKNH_01893 Putative bifunctional exonuclease/endonuclease protein
+JHJICKNH_01894 DNA polymerase IV
+JHJICKNH_01896 23S rRNA (uracil-C(5))-methyltransferase RlmCD
+JHJICKNH_01897 Diacylglycerol kinase
+JHJICKNH_01898 Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+JHJICKNH_01899 Glutamyl-tRNA(Gln) amidotransferase subunit A
+JHJICKNH_01900 Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+JHJICKNH_01901 Sodium/proline symporter
+JHJICKNH_01903 DNA ligase
+JHJICKNH_01904 ATP-dependent DNA helicase PcrA
+JHJICKNH_01905 Heptaprenylglyceryl phosphate synthase
+JHJICKNH_01907 Adenylosuccinate lyase
+JHJICKNH_01908 Staphopain A
+JHJICKNH_01912 NH(3)-dependent NAD(+) synthetase
+JHJICKNH_01913 Nicotinate phosphoribosyltransferase pncB2
+JHJICKNH_01914 Nitric oxide synthase oxygenase
+JHJICKNH_01915 Bifunctional chorismate mutase/prephenate dehydratase
+JHJICKNH_01916 Sodium-dependent dicarboxylate transporter SdcS
+JHJICKNH_01918 Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+JHJICKNH_01919 putative manganese-dependent inorganic pyrophosphatase
+JHJICKNH_01920 4,4'-diaponeurosporen-aldehyde dehydrogenase
+JHJICKNH_01921 putative protein
+JHJICKNH_01930 Bacitracin transport ATP-binding protein BcrA
+JHJICKNH_01932 Vitamin B12 import ATP-binding protein BtuD
+JHJICKNH_01933 HTH-type transcriptional repressor YtrA
+JHJICKNH_01935 Histidinol-phosphate aminotransferase
+JHJICKNH_01936 Protein map
+JHJICKNH_01937 65 kDa membrane protein
+JHJICKNH_01938 Phospholipase C
+JHJICKNH_01939 Staphylococcal complement inhibitor
+JHJICKNH_01940 Chemotaxis inhibitory protein
+JHJICKNH_01941 putative autolysin PH
+JHJICKNH_01942 Staphylokinase
+JHJICKNH_02001 LexA repressor
+JHJICKNH_02004 Tyrosine recombinase XerC
+JHJICKNH_02005 Phospholipase C
+JHJICKNH_02006 putative leukocidin-like protein 1
+JHJICKNH_02007 putative leukocidin-like protein 2
+JHJICKNH_02008 putative succinyl-diaminopimelate desuccinylase
+JHJICKNH_02010 Iron(3+)-hydroxamate-binding protein FhuD
+JHJICKNH_02011 Ktr system potassium uptake protein B
+JHJICKNH_02015 60 kDa chaperonin
+JHJICKNH_02016 10 kDa chaperonin
+JHJICKNH_02017 Membrane-embedded CAAX protease MroQ
+JHJICKNH_02020 Omega-amidase YafV
+JHJICKNH_02022 Accessory gene regulator protein B
+JHJICKNH_02025 Accessory gene regulator protein A
+JHJICKNH_02026 Fructokinase
+JHJICKNH_02027 Sucrose-6-phosphate hydrolase
+JHJICKNH_02028 HTH-type transcriptional regulator TreR
+JHJICKNH_02029 Ammonium transporter
+JHJICKNH_02030 Putative sulfur carrier protein YeeD
+JHJICKNH_02032 Redox-sensing transcriptional repressor Rex
+JHJICKNH_02033 putative ABC transporter ATP-binding protein YheS
+JHJICKNH_02034 DNA mismatch repair protein MutS
+JHJICKNH_02035 tRNA N6-adenosine threonylcarbamoyltransferase
+JHJICKNH_02036 [Ribosomal protein S18]-alanine N-acetyltransferase
+JHJICKNH_02037 tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+JHJICKNH_02038 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+JHJICKNH_02039 Dihydroxy-acid dehydratase
+JHJICKNH_02040 Acetolactate synthase large subunit
+JHJICKNH_02042 Ketol-acid reductoisomerase (NADP(+))
+JHJICKNH_02043 2-isopropylmalate synthase
+JHJICKNH_02044 3-isopropylmalate dehydrogenase
+JHJICKNH_02045 3-isopropylmalate dehydratase large subunit
+JHJICKNH_02046 3-isopropylmalate dehydratase small subunit
+JHJICKNH_02047 L-threonine dehydratase biosynthetic IlvA
+JHJICKNH_02053 Protein SprT-like protein
+JHJICKNH_02054 Protein YhgF
+JHJICKNH_02055 RNA polymerase sigma-B factor
+JHJICKNH_02056 Serine-protein kinase RsbW
+JHJICKNH_02057 Anti-sigma-B factor antagonist
+JHJICKNH_02058 Phosphoserine phosphatase RsbU
+JHJICKNH_02060 Endoribonuclease MazF
+JHJICKNH_02061 Antitoxin MazE
+JHJICKNH_02062 Alanine racemase 1
+JHJICKNH_02063 Holo-[acyl-carrier-protein] synthase
+JHJICKNH_02067 Potassium-transporting ATPase KdpC subunit
+JHJICKNH_02068 Potassium-transporting ATPase ATP-binding subunit
+JHJICKNH_02069 Potassium-transporting ATPase potassium-binding subunit
+JHJICKNH_02070 Sensor protein KdpD
+JHJICKNH_02071 KDP operon transcriptional regulatory protein KdpE
+JHJICKNH_02072 DEAD-box ATP-dependent RNA helicase CshA
+JHJICKNH_02073 UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+JHJICKNH_02074 D-alanine--D-alanine ligase
+JHJICKNH_02075 Peptidoglycan glycosyltransferase RodA
+JHJICKNH_02079 Cardiolipin synthase
+JHJICKNH_02080 putative protein YedJ
+JHJICKNH_02081 Membrane protein insertase YidC
+JHJICKNH_02082 Thiamine-phosphate synthase
+JHJICKNH_02083 Hydroxyethylthiazole kinase
+JHJICKNH_02084 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+JHJICKNH_02085 Aminopyrimidine aminohydrolase
+JHJICKNH_02086 putative transglycosylase SceD
+JHJICKNH_02087 Single-stranded DNA-binding protein A
+JHJICKNH_02089 3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+JHJICKNH_02090 UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+JHJICKNH_02092 ATP synthase epsilon chain
+JHJICKNH_02093 ATP synthase subunit beta
+JHJICKNH_02094 ATP synthase gamma chain
+JHJICKNH_02095 ATP synthase subunit alpha
+JHJICKNH_02096 ATP synthase subunit delta
+JHJICKNH_02097 ATP synthase subunit b
+JHJICKNH_02098 ATP synthase subunit c
+JHJICKNH_02099 ATP synthase subunit a
+JHJICKNH_02101 UDP-N-acetylglucosamine 2-epimerase
+JHJICKNH_02102 Uracil phosphoribosyltransferase
+JHJICKNH_02103 Serine hydroxymethyltransferase
+JHJICKNH_02105 Low molecular weight protein-tyrosine-phosphatase PtpB
+JHJICKNH_02106 Threonylcarbamoyl-AMP synthase
+JHJICKNH_02107 Release factor glutamine methyltransferase
+JHJICKNH_02108 Peptide chain release factor 1
+JHJICKNH_02109 Thymidine kinase
+JHJICKNH_02110 50S ribosomal protein L31 type B
+JHJICKNH_02111 Transcription termination factor Rho
+JHJICKNH_02112 Putative aldehyde dehydrogenase
+JHJICKNH_02113 HTH-type transcriptional regulator YodB
+JHJICKNH_02114 UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+JHJICKNH_02115 Fructose-bisphosphate aldolase
+JHJICKNH_02117 CTP synthase
+JHJICKNH_02118 putative DNA-directed RNA polymerase subunit delta
+JHJICKNH_02120 Type II pantothenate kinase
+JHJICKNH_02123 p-aminobenzoyl-glutamate hydrolase subunit B
+JHJICKNH_02124 S-ribosylhomocysteine lyase
+JHJICKNH_02126 Pyrimidine-nucleoside phosphorylase
+JHJICKNH_02127 Deoxyribose-phosphate aldolase 2
+JHJICKNH_02128 Purine nucleoside phosphorylase DeoD-type 1
+JHJICKNH_02129 General stress protein 20U
+JHJICKNH_02133 putative mannose-6-phosphate isomerase GmuF
+JHJICKNH_02135 putative sugar epimerase YhfK
+JHJICKNH_02136 HTH-type transcriptional repressor CzrA
+JHJICKNH_02137 Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+JHJICKNH_02141 Phosphatase YwpJ
+JHJICKNH_02142 putative ABC transporter ATP-binding protein YlmA
+JHJICKNH_02143 Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+JHJICKNH_02144 PTS system mannitol-specific EIICB component
+JHJICKNH_02146 Mannitol-specific phosphotransferase enzyme IIA component
+JHJICKNH_02147 Mannitol-1-phosphate 5-dehydrogenase
+JHJICKNH_02149 Phosphoglucosamine mutase
+JHJICKNH_02150 CdaA regulatory protein CdaR
+JHJICKNH_02151 Cyclic di-AMP synthase CdaA
+JHJICKNH_02152 Arginase
+JHJICKNH_02153 ISL3 family transposase IS1181
+JHJICKNH_02164 Iron-sulfur cluster carrier protein
+JHJICKNH_02165 Fatty acid resistance protein FarB
+JHJICKNH_02166 Multidrug resistance efflux pump SepA
+JHJICKNH_02167 Multidrug efflux pump SdrM
+JHJICKNH_02169 putative uridylyltransferase
+JHJICKNH_02170 Inner membrane protein YdjM
+JHJICKNH_02173 Fe(3+) dicitrate transport system permease protein FecD
+JHJICKNH_02174 putative siderophore transport system permease protein YfiZ
+JHJICKNH_02175 Fe(3+)-citrate-binding protein YfmC
+JHJICKNH_02176 Ornithine racemase
+JHJICKNH_02181 IS1182 family transposase ISSau3
+JHJICKNH_02182 IS1182 family transposase ISSau3
+JHJICKNH_02183 Alkaline shock protein 23
+JHJICKNH_02186 Glycine betaine transporter OpuD
+JHJICKNH_02187 Zinc-type alcohol dehydrogenase-like protein
+JHJICKNH_02188 Putative NADP-dependent oxidoreductase YfmJ
+JHJICKNH_02190 6-phospho-beta-galactosidase
+JHJICKNH_02191 PTS system lactose-specific EIICB component
+JHJICKNH_02192 PTS system lactose-specific EIIA component
+JHJICKNH_02193 Tagatose 1,6-diphosphate aldolase
+JHJICKNH_02194 Tagatose-6-phosphate kinase
+JHJICKNH_02195 Galactose-6-phosphate isomerase subunit LacB
+JHJICKNH_02196 Galactose-6-phosphate isomerase subunit LacA
+JHJICKNH_02197 Lactose phosphotransferase system repressor
+JHJICKNH_02198 NAD-dependent protein deacetylase
+JHJICKNH_02201 putative oxidoreductase/MSMEI_2347
+JHJICKNH_02202 HTH-type transcriptional regulator AdhR
+JHJICKNH_02203 Hyaluronate lyase
+JHJICKNH_02205 putative hydrolase
+JHJICKNH_02206 65 kDa membrane protein
+JHJICKNH_02207 Alpha-acetolactate decarboxylase
+JHJICKNH_02208 Acetolactate synthase
+JHJICKNH_02214 30S ribosomal protein S9
+JHJICKNH_02215 50S ribosomal protein L13
+JHJICKNH_02216 tRNA pseudouridine synthase A
+JHJICKNH_02217 Energy-coupling factor transporter transmembrane protein EcfT
+JHJICKNH_02218 Energy-coupling factor transporter ATP-binding protein EcfA2
+JHJICKNH_02219 Energy-coupling factor transporter ATP-binding protein EcfA1
+JHJICKNH_02220 50S ribosomal protein L17
+JHJICKNH_02221 DNA-directed RNA polymerase subunit alpha
+JHJICKNH_02222 30S ribosomal protein S11
+JHJICKNH_02223 30S ribosomal protein S13
+JHJICKNH_02224 50S ribosomal protein L36
+JHJICKNH_02225 Translation initiation factor IF-1
+JHJICKNH_02226 Adenylate kinase
+JHJICKNH_02227 Protein translocase subunit SecY
+JHJICKNH_02228 50S ribosomal protein L15
+JHJICKNH_02229 50S ribosomal protein L30
+JHJICKNH_02230 30S ribosomal protein S5
+JHJICKNH_02231 50S ribosomal protein L18
+JHJICKNH_02232 50S ribosomal protein L6
+JHJICKNH_02233 30S ribosomal protein S8
+JHJICKNH_02234 30S ribosomal protein S14 type Z
+JHJICKNH_02235 50S ribosomal protein L5
+JHJICKNH_02236 50S ribosomal protein L24
+JHJICKNH_02237 50S ribosomal protein L14
+JHJICKNH_02238 30S ribosomal protein S17
+JHJICKNH_02239 50S ribosomal protein L29
+JHJICKNH_02240 50S ribosomal protein L16
+JHJICKNH_02241 30S ribosomal protein S3
+JHJICKNH_02242 50S ribosomal protein L22
+JHJICKNH_02243 30S ribosomal protein S19
+JHJICKNH_02244 50S ribosomal protein L2
+JHJICKNH_02245 50S ribosomal protein L23
+JHJICKNH_02246 50S ribosomal protein L4
+JHJICKNH_02247 50S ribosomal protein L3
+JHJICKNH_02248 30S ribosomal protein S10
+JHJICKNH_02250 Guanine/hypoxanthine permease PbuG
+JHJICKNH_02251 DNA topoisomerase 3
+JHJICKNH_02253 putative glucose uptake protein GlcU
+JHJICKNH_02257 Swarming motility protein SwrC
+JHJICKNH_02258 Lipid II:glycine glycyltransferase
+JHJICKNH_02261 putative HTH-type transcriptional regulator
+JHJICKNH_02262 putative MFS-type transporter YfcJ
+JHJICKNH_02263 HTH-type transcriptional regulator SarV
+JHJICKNH_02264 GTP 3',8-cyclase
+JHJICKNH_02265 putative molybdenum cofactor guanylyltransferase
+JHJICKNH_02266 Molybdopterin synthase sulfur carrier subunit
+JHJICKNH_02267 Molybdopterin synthase catalytic subunit
+JHJICKNH_02269 Molybdopterin molybdenumtransferase
+JHJICKNH_02271 Molybdenum cofactor biosynthesis protein B
+JHJICKNH_02273 Sulfate/thiosulfate import ATP-binding protein CysA
+JHJICKNH_02274 Molybdenum transport system permease protein ModB
+JHJICKNH_02275 Molybdate-binding protein ModA
+JHJICKNH_02276 Sulfur carrier protein FdhD
+JHJICKNH_02278 Biotin transporter BioY
+JHJICKNH_02279 Pyrimidine-specific ribonucleoside hydrolase RihB
+JHJICKNH_02280 Iron(3+)-hydroxamate-binding protein FhuD
+JHJICKNH_02281 Putative acyl-CoA dehydrogenase YdbM
+JHJICKNH_02282 Putative acyl-CoA dehydrogenase YdbM
+JHJICKNH_02283 Urea transporter
+JHJICKNH_02284 Urease subunit gamma
+JHJICKNH_02285 Urease subunit beta
+JHJICKNH_02286 Urease subunit alpha
+JHJICKNH_02287 Urease accessory protein UreE
+JHJICKNH_02288 Urease accessory protein UreF
+JHJICKNH_02289 Urease accessory protein UreG
+JHJICKNH_02290 Urease accessory protein UreD
+JHJICKNH_02291 HTH-type transcriptional regulator SarR
+JHJICKNH_02294 HTH-type transcriptional activator RhaS
+JHJICKNH_02295 Staphylococcal secretory antigen ssaA2
+JHJICKNH_02296 Malate-2H(+)/Na(+)-lactate antiporter
+JHJICKNH_02297 Opine dehydrogenase
+JHJICKNH_02300 Putative 2-hydroxyacid dehydrogenase
+JHJICKNH_02301 Aurachin C monooxygenase/isomerase
+JHJICKNH_02302 Bifunctional autolysin
+JHJICKNH_02305 Putative formate dehydrogenase
+JHJICKNH_02306 Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+JHJICKNH_02307 3'(2'),5'-bisphosphate nucleotidase CysQ
+JHJICKNH_02311 putative HTH-type transcriptional regulator YbbH
+JHJICKNH_02312 putative transport protein YifK
+JHJICKNH_02316 Phosphorylated carbohydrates phosphatase
+JHJICKNH_02317 Pantothenate precursors transporter PanS
+JHJICKNH_02319 PTS system maltose-specific EIICB component
+JHJICKNH_02320 HTH-type transcriptional regulator GlvR
+JHJICKNH_02322 Malate-2H(+)/Na(+)-lactate antiporter
+JHJICKNH_02324 putative oxidoreductase YghA
+JHJICKNH_02325 N-acetylcysteine deacetylase
+JHJICKNH_02326 Imidazolonepropionase
+JHJICKNH_02327 Urocanate hydratase
+JHJICKNH_02328 HTH-type transcriptional regulator HdfR
+JHJICKNH_02329 Metallothiol transferase FosB
+JHJICKNH_02330 Formimidoylglutamase
+JHJICKNH_02331 Lysostaphin resistance protein A
+JHJICKNH_02332 Ribose-5-phosphate isomerase A
+JHJICKNH_02333 Protein YiiM
+JHJICKNH_02334 Aldose 1-epimerase
+JHJICKNH_02336 putative protein YhaP
+JHJICKNH_02337 Linearmycin resistance ATP-binding protein LnrL
+JHJICKNH_02339 Putative 3-methyladenine DNA glycosylase
+JHJICKNH_02340 Sodium/glutamate symporter
+JHJICKNH_02341 Isopentenyl-diphosphate delta-isomerase
+JHJICKNH_02342 Zinc transport protein ZntB
+JHJICKNH_02347 Putative multidrug resistance protein MdtD
+JHJICKNH_02348 p-hydroxybenzoic acid efflux pump subunit AaeA
+JHJICKNH_02351 Bicyclomycin resistance protein
+JHJICKNH_02352 Membrane-associated protein TcaA
+JHJICKNH_02353 HTH-type transcriptional regulator TcaR
+JHJICKNH_02354 HTH-type transcriptional regulator TcaR
+JHJICKNH_02357 Putative hemin import ATP-binding protein HrtA
+JHJICKNH_02359 Heme response regulator HssR
+JHJICKNH_02360 Heme sensor protein HssS
+JHJICKNH_02361 putative HTH-type transcriptional regulator
+JHJICKNH_02363 putative malate:quinone oxidoreductase 1
+JHJICKNH_02364 L-lactate permease
+JHJICKNH_02366 putative lipoprotein
+JHJICKNH_02367 Spermidine/spermine N(1)-acetyltransferase
+JHJICKNH_02368 Putative quinone oxidoreductase YhfP
+JHJICKNH_02370 Ferredoxin--NADP reductase
+JHJICKNH_02375 PTS system trehalose-specific EIIBC component
+JHJICKNH_02376 PTS system trehalose-specific EIIBC component
+JHJICKNH_02379 General stress protein 26
+JHJICKNH_02381 Proton/sodium-glutamate symport protein
+JHJICKNH_02383 HTH-type transcriptional regulator SarZ
+JHJICKNH_02384 Acid shock protein
+JHJICKNH_02385 putative nitrate transporter NarT
+JHJICKNH_02388 HTH-type transcriptional activator mta
+JHJICKNH_02389 Oxygen regulatory protein NreC
+JHJICKNH_02390 Oxygen sensor histidine kinase NreB
+JHJICKNH_02392 Nitrate reductase-like protein NarX
+JHJICKNH_02394 Respiratory nitrate reductase 1 beta chain
+JHJICKNH_02395 Respiratory nitrate reductase 1 alpha chain
+JHJICKNH_02396 Uroporphyrinogen-III C-methyltransferase
+JHJICKNH_02397 Assimilatory nitrite reductase [NAD(P)H] small subunit
+JHJICKNH_02398 Nitrite reductase [NAD(P)H]
+JHJICKNH_02399 Sirohydrochlorin ferrochelatase
+JHJICKNH_02400 putative N-acetyltransferase YtmI
+JHJICKNH_02401 Nitrite transporter NirC
+JHJICKNH_02405 Toxin YoeB
+JHJICKNH_02406 Antitoxin YefM
+JHJICKNH_02407 Disulfide bond formation protein D
+JHJICKNH_02409 Aminoacyltransferase FemA
+JHJICKNH_02410 L-cystine import ATP-binding protein TcyC
+JHJICKNH_02411 L-cystine transport system permease protein TcyB
+JHJICKNH_02412 putative amino-acid ABC transporter-binding protein
+JHJICKNH_02413 Fatty acid resistance protein FarB
+JHJICKNH_02415 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+JHJICKNH_02416 Manganese efflux system protein MneS
+JHJICKNH_02417 Immunoglobulin-binding protein Sbi
+JHJICKNH_02418 Gamma-hemolysin component A
+JHJICKNH_02419 Gamma-hemolysin component C
+JHJICKNH_02420 Gamma-hemolysin component B
+JHJICKNH_02422 6-carboxyhexanoate--CoA ligase
+JHJICKNH_02423 8-amino-7-oxononanoate synthase/2-amino-3-ketobutyrate coenzyme A ligase
+JHJICKNH_02424 Biotin synthase
+JHJICKNH_02425 L-Lysine--8-amino-7-oxononanoate transaminase
+JHJICKNH_02426 ATP-dependent dethiobiotin synthetase BioD
+JHJICKNH_02427 putative ABC transporter ATP-binding protein
+JHJICKNH_02428 Iron import ATP-binding/permease protein IrtA
+JHJICKNH_02430 Glycerate 2-kinase
+JHJICKNH_02432 Bicyclomycin resistance protein
+JHJICKNH_02435 3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+JHJICKNH_02436 D-serine/D-alanine/glycine transporter
+JHJICKNH_02437 Sodium, potassium, lithium and rubidium/H(+) antiporter
+JHJICKNH_02438 Potassium transporter KimA
+JHJICKNH_02439 Protein flp
+JHJICKNH_02440 ADP-L-glycero-D-manno-heptose-6-epimerase
+JHJICKNH_02441 2-dehydropantoate 2-reductase
+JHJICKNH_02442 Quinolone resistance protein NorB
+JHJICKNH_02443 Carnitine transport permease protein OpuCD
+JHJICKNH_02444 Carnitine transport binding protein OpuCC
+JHJICKNH_02445 Carnitine transport permease protein OpuCB
+JHJICKNH_02446 Carnitine transport ATP-binding protein OpuCA
+JHJICKNH_02448 Aspartate-proton symporter
+JHJICKNH_02449 Para-nitrobenzyl esterase
+JHJICKNH_02450 Purine efflux pump PbuE
+JHJICKNH_02451 putative iron export permease protein FetB
+JHJICKNH_02452 putative iron export ATP-binding protein FetA
+JHJICKNH_02453 Putative aminopeptidase YsdC
+JHJICKNH_02456 putative lipoprotein YehR
+JHJICKNH_02459 Staphylopine export protein
+JHJICKNH_02460 Metal-staphylopine import system ATP-binding protein CntF
+JHJICKNH_02461 Metal-staphylopine import system ATP-binding protein CntD
+JHJICKNH_02462 Metal-staphylopine import system permease protein CntC
+JHJICKNH_02463 Metal-staphylopine import system permease protein CntB
+JHJICKNH_02464 Metal-staphylopine-binding protein CntA
+JHJICKNH_02465 Staphylopine synthase
+JHJICKNH_02466 D-histidine 2-aminobutanoyltransferase
+JHJICKNH_02467 Histidine racemase
+JHJICKNH_02469 Dihydroanticapsin 7-dehydrogenase
+JHJICKNH_02470 p-aminobenzoyl-glutamate transport protein
+JHJICKNH_02475 putative oxidoreductase
+JHJICKNH_02478 putative protein
+JHJICKNH_02482 putative protein
+JHJICKNH_02483 putative protein
+JHJICKNH_02484 UvrABC system protein B
+JHJICKNH_02485 CTP pyrophosphohydrolase
+JHJICKNH_02486 Phosphoglucomutase
+JHJICKNH_02490 Enterobactin exporter EntS
+JHJICKNH_02491 Surface protein G
+JHJICKNH_02492 HTH-type transcriptional regulator SarT
+JHJICKNH_02493 HTH-type transcriptional regulator SarU
+JHJICKNH_02494 UTP--glucose-1-phosphate uridylyltransferase
+JHJICKNH_02495 Fibronectin-binding protein B
+JHJICKNH_02496 Fibronectin-binding protein A
+JHJICKNH_02497 High-affinity gluconate transporter
+JHJICKNH_02498 Xylulose kinase
+JHJICKNH_02501 GTP pyrophosphokinase YwaC
+JHJICKNH_02505 putative sulfoacetate transporter SauU
+JHJICKNH_02507 Inner membrane transport protein YdhC
+JHJICKNH_02508 HTH-type transcriptional regulator PchR
+JHJICKNH_02509 Bacitracin transport ATP-binding protein BcrA
+JHJICKNH_02511 Fructose-1,6-bisphosphatase class 3
+JHJICKNH_02513 Putative hydrolase MhqD
+JHJICKNH_02514 Putative ring-cleaving dioxygenase MhqA
+JHJICKNH_02515 HTH-type transcriptional regulator MhqR
+JHJICKNH_02516 putative protein YjdJ
+JHJICKNH_02517 Catechol-2,3-dioxygenase
+JHJICKNH_02518 Putative NAD(P)H nitroreductase
+JHJICKNH_02519 D-lactate dehydrogenase
+JHJICKNH_02520 Sugar phosphatase YbiV
+JHJICKNH_02521 putative peptide export ATP-binding protein YydI
+JHJICKNH_02522 putative peptide export permease protein YydJ
+JHJICKNH_02523 Sortase A
+JHJICKNH_02524 L-methionine sulfoximine/L-methionine sulfone acetyltransferase
+JHJICKNH_02526 L-serine dehydratase, alpha chain
+JHJICKNH_02530 putative inner membrane transporter YicL
+JHJICKNH_02534 PTS system glucoside-specific EIICBA component
+JHJICKNH_02535 Putative thiamine pyrophosphate-containing protein YdaP
+JHJICKNH_02536 Holin-like protein CidB
+JHJICKNH_02537 Holin-like protein CidA
+JHJICKNH_02538 HTH-type transcriptional regulator CynR
+JHJICKNH_02542 3-hydroxy-3-methylglutaryl-coenzyme A reductase
+JHJICKNH_02543 Hydroxymethylglutaryl-CoA synthase
+JHJICKNH_02544 Methylated-DNA--protein-cysteine methyltransferase
+JHJICKNH_02545 ATP-dependent Clp protease ATP-binding subunit ClpL
+JHJICKNH_02547 Fe(2+) transporter FeoB
+JHJICKNH_02549 Membrane protein YdfJ
+JHJICKNH_02551 1-pyrroline-5-carboxylate dehydrogenase
+JHJICKNH_02552 Putative acetyltransferase
+JHJICKNH_02554 Copper-exporting P-type ATPase
+JHJICKNH_02555 Copper chaperone CopZ
+JHJICKNH_02556 D-lactate dehydrogenase
+JHJICKNH_02557 Transaminase BacF
+JHJICKNH_02558 4,4'-diapophytoene desaturase (4,4'-diaponeurosporene-forming)
+JHJICKNH_02559 4,4'-diapophytoene synthase
+JHJICKNH_02560 4,4'-diaponeurosporenoate glycosyltransferase
+JHJICKNH_02561 4,4'-diaponeurosporene oxygenase
+JHJICKNH_02563 Staphylococcal secretory antigen SsaA
+JHJICKNH_02564 O-acetyltransferase OatA
+JHJICKNH_02566 putative transglycosylase IsaA
+JHJICKNH_02575 Cyclopentanol dehydrogenase
+JHJICKNH_02577 putative hydrolase
+JHJICKNH_02581 Putative flavoprotein monooxygenase
+JHJICKNH_02585 putative ketoamine kinase
+JHJICKNH_02586 Dihydroorotate dehydrogenase (quinone)
+JHJICKNH_02588 Epoxyqueuosine reductase QueH
+JHJICKNH_02591 Cocaine esterase
+JHJICKNH_02592 Aspartate 1-decarboxylase
+JHJICKNH_02593 Pantothenate synthetase
+JHJICKNH_02594 3-methyl-2-oxobutanoate hydroxymethyltransferase
+JHJICKNH_02595 2-dehydropantoate 2-reductase
+JHJICKNH_02596 Alpha-acetolactate decarboxylase
+JHJICKNH_02597 L-lactate dehydrogenase 2
+JHJICKNH_02598 putative amino acid permease YhdG
+JHJICKNH_02599 Isoleucine 2-epimerase
+JHJICKNH_02601 Fructose-bisphosphate aldolase class 1
+JHJICKNH_02602 putative malate:quinone oxidoreductase 2
+JHJICKNH_02603 Acetyl-coenzyme A synthetase
+JHJICKNH_02604 Heme oxygenase (staphylobilin-producing)
+JHJICKNH_02606 Oxygen-dependent choline dehydrogenase
+JHJICKNH_02607 Betaine aldehyde dehydrogenase
+JHJICKNH_02608 HTH-type transcriptional repressor OpcR
+JHJICKNH_02610 Glycine betaine transporter OpuD
+JHJICKNH_02612 Anaerobic ribonucleoside-triphosphate reductase
+JHJICKNH_02613 Citrate transporter
+JHJICKNH_02614 Precorrin-2 dehydrogenase
+JHJICKNH_02615 Sulfite reductase [NADPH] flavoprotein alpha-component
+JHJICKNH_02616 Glutathione peroxidase BsaA
+JHJICKNH_02617 Bacitracin export permease protein BceB
+JHJICKNH_02618 ABC transporter ATP-binding protein YxdL
+JHJICKNH_02619 Sensor histidine kinase GraS
+JHJICKNH_02620 Response regulator protein GraR
+JHJICKNH_02622 Alkaline phosphatase 3
+JHJICKNH_02623 putative protein.1
+JHJICKNH_02626 Clumping factor B
+JHJICKNH_02627 HTH-type transcriptional regulator ArcR
+JHJICKNH_02628 Carbamate kinase 2
+JHJICKNH_02629 Arginine/ornithine antiporter
+JHJICKNH_02630 Ornithine carbamoyltransferase, catabolic
+JHJICKNH_02631 Arginine deiminase
+JHJICKNH_02632 Arginine repressor
+JHJICKNH_02633 Zinc metalloproteinase aureolysin
+JHJICKNH_02634 Immunodominant staphylococcal antigen B
+JHJICKNH_02636 Transcriptional regulator ManR
+JHJICKNH_02637 PTS system mannose-specific EIIBCA component
+JHJICKNH_02638 Putative mannose-6-phosphate isomerase YvyI
+JHJICKNH_02640 N-acetylmuramoyl-L-alanine amidase domain-containing protein
+JHJICKNH_02641 N-carbamoylsarcosine amidase
+JHJICKNH_02643 UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+JHJICKNH_02644 UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+JHJICKNH_02645 Protein translocase subunit SecA 1
+JHJICKNH_02647 Accessory Sec system protein Asp2
+JHJICKNH_02648 Accessory Sec system protein Asp1
+JHJICKNH_02649 Protein translocase subunit SecY
+JHJICKNH_02650 Serine-rich adhesin for platelets
+JHJICKNH_02656 Peptide methionine sulfoxide reductase msrA/msrB
+JHJICKNH_02658 Tyrosine-protein phosphatase YwqE
+JHJICKNH_02659 Tyrosine-protein kinase YwqD
+JHJICKNH_02660 Capsular polysaccharide type 8 biosynthesis protein cap8A
+JHJICKNH_02661 Biofilm operon icaADBC HTH-type negative transcriptional regulator IcaR
+JHJICKNH_02662 Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+JHJICKNH_02663 Poly-beta-1,6-N-acetyl-D-glucosamine synthesis protein IcaD
+JHJICKNH_02664 Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase
+JHJICKNH_02665 putative poly-beta-1,6-N-acetyl-D-glucosamine export protein
+JHJICKNH_02666 Lipase 1
+JHJICKNH_02667 Imidazole glycerol phosphate synthase subunit HisF
+JHJICKNH_02668 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+JHJICKNH_02669 Imidazole glycerol phosphate synthase subunit HisH
+JHJICKNH_02670 Imidazoleglycerol-phosphate dehydratase
+JHJICKNH_02671 Histidinol-phosphate aminotransferase
+JHJICKNH_02672 Histidinol dehydrogenase
+JHJICKNH_02673 ATP phosphoribosyltransferase
+JHJICKNH_02674 ATP phosphoribosyltransferase regulatory subunit
+JHJICKNH_02677 Putative HMP/thiamine permease protein YkoC
+JHJICKNH_02678 Putative HMP/thiamine import ATP-binding protein YkoD
+JHJICKNH_02680 Adenosyl-chloride synthase
+JHJICKNH_02682 Lactonase drp35
+JHJICKNH_02684 Pyrrolidone-carboxylate peptidase
+JHJICKNH_02688 Putative malate transporter YflS
+JHJICKNH_02689 Protein RarD
+JHJICKNH_02691 Nickel transporter NixA
+JHJICKNH_02692 Arylamine N-acetyltransferase / N-hydroxyarylamine O-acetyltransferase
+JHJICKNH_02694 Bacitracin export ATP-binding protein BceA
+JHJICKNH_02695 Bacitracin export permease protein BceB
+JHJICKNH_02697 IS30 family transposase IS1252
+JHJICKNH_02700 Cold shock-like protein CspLA
+JHJICKNH_02704 Nucleoid occlusion protein
+JHJICKNH_02705 Ribosomal RNA small subunit methyltransferase G
+JHJICKNH_02706 tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+JHJICKNH_02707 tRNA modification GTPase MnmE
+JHJICKNH_02708 Ribonuclease P protein component
+JHJICKNH_02709 50S ribosomal protein L34
