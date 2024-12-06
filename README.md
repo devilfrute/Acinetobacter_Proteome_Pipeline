@@ -8,6 +8,6 @@ Shell Scripts: Custom scripts (hypo_seq_remover.sh, name_extracter.sh) to proces
 Description:
 Use Prokka to annotate the Acinetobacter baumannii genome and extract protein sequences in amino acid format.
 Command:
-'''
+```
 prokka test_input.fna
-'''
+```
